@@ -1,0 +1,2810 @@
+Date,Team,Passing Cmp%
+2017-08-11,Arsenal,83.0
+2017-08-19,Arsenal,85.9
+2017-08-27,Arsenal,80.4
+2017-09-09,Arsenal,78.8
+2017-09-17,Arsenal,78.4
+2017-09-25,Arsenal,85.6
+2017-10-01,Arsenal,86.6
+2017-10-14,Arsenal,79.2
+2017-10-22,Arsenal,82.4
+2017-10-28,Arsenal,85.9
+2017-11-05,Arsenal,81.1
+2017-11-18,Arsenal,68.0
+2017-11-26,Arsenal,81.8
+2017-11-29,Arsenal,87.1
+2017-12-02,Arsenal,82.8
+2017-12-10,Arsenal,86.4
+2017-12-13,Arsenal,84.7
+2017-12-16,Arsenal,84.8
+2017-12-22,Arsenal,74.1
+2017-12-28,Arsenal,83.1
+2017-12-31,Arsenal,83.4
+2018-01-03,Arsenal,83.8
+2018-01-14,Arsenal,73.6
+2018-01-20,Arsenal,87.5
+2018-01-30,Arsenal,90.6
+2018-02-03,Arsenal,83.8
+2018-02-10,Arsenal,79.8
+2018-03-01,Arsenal,77.6
+2018-03-04,Arsenal,83.0
+2018-03-11,Arsenal,81.5
+2018-04-01,Arsenal,83.2
+2018-04-08,Arsenal,83.4
+2018-04-15,Arsenal,83.1
+2018-04-22,Arsenal,85.5
+2018-04-29,Arsenal,81.6
+2018-05-06,Arsenal,87.8
+2018-05-09,Arsenal,78.8
+2018-05-13,Arsenal,79.9   
+2018-08-12,Arsenal,77.1
+2018-08-18,Arsenal,81.2
+2018-08-25,Arsenal,82.2
+2018-09-02,Arsenal,83.3
+2018-09-15,Arsenal,83.0
+2018-09-23,Arsenal,81.5
+2018-09-29,Arsenal,79.8
+2018-10-07,Arsenal,78.9
+2018-10-22,Arsenal,84.9
+2018-10-28,Arsenal,82.3
+2018-11-03,Arsenal,83.8
+2018-11-11,Arsenal,84.2
+2018-11-25,Arsenal,79.1
+2018-12-02,Arsenal,81.4
+2018-12-05,Arsenal,81.0
+2018-12-08,Arsenal,79.4
+2018-12-16,Arsenal,85.1
+2018-12-22,Arsenal,85.4
+2018-12-26,Arsenal,87.5
+2018-12-29,Arsenal,82.6
+2019-01-01,Arsenal,77.6
+2019-01-12,Arsenal,85.7
+2019-01-19,Arsenal,75.7
+2019-01-29,Arsenal,85.1
+2019-02-03,Arsenal,77.4
+2019-02-09,Arsenal,72.9
+2019-02-24,Arsenal,80.6
+2019-02-27,Arsenal,87.3
+2019-03-02,Arsenal,60.1
+2019-03-10,Arsenal,74.8
+2019-04-01,Arsenal,84.5
+2019-04-07,Arsenal,78.4
+2019-04-15,Arsenal,85.7
+2019-04-21,Arsenal,85.8
+2019-04-24,Arsenal,87.5
+2019-04-28,Arsenal,63.6
+2019-05-05,Arsenal,82.2
+2019-05-12,Arsenal,83.0
+2019-08-11,Arsenal,84.1
+2019-08-17,Arsenal,81.7
+2019-08-24,Arsenal,84.7
+2019-09-01,Arsenal,81.1
+2019-09-15,Arsenal,82.9
+2019-09-22,Arsenal,83.2
+2019-09-30,Arsenal,74.5
+2019-10-06,Arsenal,73.2
+2019-10-21,Arsenal,83.8
+2019-10-27,Arsenal,79.2
+2019-11-02,Arsenal,82.7
+2019-11-09,Arsenal,82.1
+2019-11-23,Arsenal,80.6
+2019-12-01,Arsenal,81.6
+2019-12-05,Arsenal,80.7
+2019-12-09,Arsenal,86.1
+2019-12-15,Arsenal,83.9
+2019-12-21,Arsenal,81.5
+2019-12-26,Arsenal,85.0
+2019-12-29,Arsenal,78.3
+2020-01-01,Arsenal,84.2
+2020-01-11,Arsenal,76.8
+2020-01-18,Arsenal,79.3
+2020-01-21,Arsenal,75.7
+2020-02-02,Arsenal,78.2
+2020-02-16,Arsenal,88.2
+2020-02-23,Arsenal,83.9
+2020-03-07,Arsenal,82.9
+2020-06-17,Arsenal,81.4
+2020-06-20,Arsenal,85.4
+2020-06-25,Arsenal,76.6
+2020-07-01,Arsenal,83.1
+2020-07-04,Arsenal,81.9
+2020-07-07,Arsenal,67.3
+2020-07-12,Arsenal,86.7
+2020-07-15,Arsenal,63.5
+2020-07-21,Arsenal,84.6
+2020-07-26,Arsenal,82.3  
+2020-09-12,Arsenal,88.2
+2020-09-19,Arsenal,84.4
+2020-09-28,Arsenal,73.4
+2020-10-04,Arsenal,87.2
+2020-10-17,Arsenal,82.9
+2020-10-25,Arsenal,84.5
+2020-11-01,Arsenal,83.3
+2020-11-08,Arsenal,81.8
+2020-11-22,Arsenal,68.8
+2020-11-29,Arsenal,80.3
+2020-12-06,Arsenal,82.4
+2020-12-13,Arsenal,79.0
+2020-12-16,Arsenal,76.1
+2020-12-19,Arsenal,86.7
+2020-12-26,Arsenal,66.8
+2020-12-29,Arsenal,84.3
+2021-01-02,Arsenal,80.8
+2021-01-14,Arsenal,84.8
+2021-01-18,Arsenal,87.2
+2021-01-26,Arsenal,75.4
+2021-01-30,Arsenal,79.8
+2021-02-02,Arsenal,87.2
+2021-02-06,Arsenal,83.6
+2021-02-14,Arsenal,76.1
+2021-02-21,Arsenal,83.3
+2021-02-28,Arsenal,81.1
+2021-03-06,Arsenal,80.2
+2021-03-14,Arsenal,82.8
+2021-03-21,Arsenal,84.0
+2021-04-03,Arsenal,74.8
+2021-04-11,Arsenal,87.5
+2021-04-18,Arsenal,85.2
+2021-04-23,Arsenal,88.7
+2021-05-02,Arsenal,90.1
+2021-05-09,Arsenal,84.3
+2021-05-12,Arsenal,77.1
+2021-05-19,Arsenal,83.3
+2021-05-23,Arsenal,86.1 
+2021-08-13,Arsenal,84.2
+2021-08-22,Arsenal,75.5
+2021-08-28,Arsenal,68.1
+2021-09-11,Arsenal,82.0
+2021-09-18,Arsenal,79.4
+2021-09-26,Arsenal,82.5
+2021-10-02,Arsenal,74.9
+2021-10-18,Arsenal,85.5
+2021-10-22,Arsenal,80.1
+2021-10-30,Arsenal,74.2
+2021-11-07,Arsenal,81.0
+2021-11-20,Arsenal,79.0
+2021-11-27,Arsenal,85.5
+2021-12-02,Arsenal,82.0
+2021-12-06,Arsenal,81.5
+2021-12-11,Arsenal,77.5
+2021-12-15,Arsenal,82.1
+2021-12-18,Arsenal,77.7
+2021-12-26,Arsenal,83.1
+2022-01-01,Arsenal,67.9
+2022-01-23,Arsenal,84.3
+2022-02-10,Arsenal,74.9
+2022-02-19,Arsenal,81.0
+2022-02-24,Arsenal,80.9
+2022-03-06,Arsenal,82.1
+2022-03-13,Arsenal,84.8
+2022-03-16,Arsenal,79.6
+2022-03-19,Arsenal,84.2
+2022-04-04,Arsenal,85.3
+2022-04-09,Arsenal,80.8
+2022-04-16,Arsenal,85.7
+2022-04-20,Arsenal,74.6
+2022-04-23,Arsenal,83.8
+2022-05-01,Arsenal,82.2
+2022-05-08,Arsenal,87.4
+2022-05-12,Arsenal,83.1
+2022-05-16,Arsenal,76.7
+2022-05-22,Arsenal,87.4  
+2017-08-12,Crystal Palace,75.0
+2017-08-19,Crystal Palace,64.9
+2017-08-26,Crystal Palace,81.3
+2017-09-10,Crystal Palace,73.0
+2017-09-16,Crystal Palace,72.9
+2017-09-23,Crystal Palace,71.6
+2017-09-30,Crystal Palace,76.0
+2017-10-14,Crystal Palace,71.7
+2017-10-21,Crystal Palace,70.8
+2017-10-28,Crystal Palace,73.5
+2017-11-05,Crystal Palace,64.5
+2017-11-18,Crystal Palace,79.6
+2017-11-25,Crystal Palace,75.4
+2017-11-28,Crystal Palace,70.5
+2017-12-02,Crystal Palace,70.5
+2017-12-09,Crystal Palace,71.8
+2017-12-12,Crystal Palace,74.7
+2017-12-16,Crystal Palace,72.6
+2017-12-23,Crystal Palace,74.1
+2017-12-28,Crystal Palace,72.1
+2017-12-31,Crystal Palace,57.1
+2018-01-02,Crystal Palace,68.3
+2018-01-13,Crystal Palace,65.0
+2018-01-20,Crystal Palace,78.7
+2018-01-30,Crystal Palace,79.8
+2018-02-04,Crystal Palace,75.5
+2018-02-10,Crystal Palace,74.6
+2018-02-25,Crystal Palace,57.9
+2018-03-05,Crystal Palace,63.5
+2018-03-10,Crystal Palace,77.0
+2018-03-17,Crystal Palace,68.0
+2018-03-31,Crystal Palace,60.7
+2018-04-07,Crystal Palace,77.8
+2018-04-14,Crystal Palace,75.1
+2018-04-21,Crystal Palace,70.0
+2018-04-28,Crystal Palace,81.4
+2018-05-05,Crystal Palace,74.2
+2018-05-13,Crystal Palace,85.3
+2018-08-11,Crystal Palace,73.7
+2018-08-20,Crystal Palace,76.3
+2018-08-26,Crystal Palace,74.0
+2018-09-01,Crystal Palace,76.9
+2018-09-15,Crystal Palace,77.4
+2018-09-22,Crystal Palace,76.7
+2018-10-01,Crystal Palace,82.1
+2018-10-06,Crystal Palace,81.4
+2018-10-21,Crystal Palace,70.8
+2018-10-28,Crystal Palace,76.0
+2018-11-04,Crystal Palace,76.8
+2018-11-10,Crystal Palace,63.3
+2018-11-24,Crystal Palace,74.1
+2018-12-01,Crystal Palace,78.9
+2018-12-04,Crystal Palace,84.0
+2018-12-08,Crystal Palace,77.2
+2018-12-15,Crystal Palace,71.7
+2018-12-22,Crystal Palace,57.6
+2018-12-26,Crystal Palace,79.6
+2018-12-30,Crystal Palace,75.6
+2019-01-02,Crystal Palace,77.7
+2019-01-12,Crystal Palace,74.4
+2019-01-19,Crystal Palace,68.6
+2019-01-30,Crystal Palace,71.0
+2019-02-02,Crystal Palace,72.5
+2019-02-09,Crystal Palace,79.6
+2019-02-23,Crystal Palace,72.0
+2019-02-27,Crystal Palace,79.3
+2019-03-02,Crystal Palace,65.6
+2019-03-09,Crystal Palace,79.9
+2019-03-30,Crystal Palace,75.3
+2019-04-03,Crystal Palace,74.9
+2019-04-06,Crystal Palace,74.9
+2019-04-14,Crystal Palace,70.3
+2019-04-21,Crystal Palace,66.8
+2019-04-27,Crystal Palace,61.9
+2019-05-04,Crystal Palace,74.9
+2019-05-12,Crystal Palace,77.5
+2019-08-10,Crystal Palace,56.3
+2019-08-18,Crystal Palace,78.2
+2019-08-24,Crystal Palace,59.7
+2019-08-31,Crystal Palace,81.0
+2019-09-14,Crystal Palace,76.3
+2019-09-22,Crystal Palace,78.0
+2019-09-28,Crystal Palace,78.0
+2019-10-05,Crystal Palace,79.7
+2019-10-19,Crystal Palace,72.6
+2019-10-27,Crystal Palace,74.9
+2019-11-03,Crystal Palace,75.8
+2019-11-09,Crystal Palace,75.8
+2019-11-23,Crystal Palace,72.7
+2019-11-30,Crystal Palace,73.9
+2019-12-03,Crystal Palace,69.3
+2019-12-07,Crystal Palace,72.2
+2019-12-16,Crystal Palace,72.3
+2019-12-21,Crystal Palace,82.5
+2019-12-26,Crystal Palace,81.7
+2019-12-28,Crystal Palace,70.9
+2020-01-01,Crystal Palace,78.7
+2020-01-11,Crystal Palace,69.1
+2020-01-18,Crystal Palace,63.5
+2020-01-21,Crystal Palace,64.5
+2020-02-01,Crystal Palace,78.4
+2020-02-08,Crystal Palace,74.1
+2020-02-22,Crystal Palace,74.1
+2020-02-29,Crystal Palace,65.6
+2020-03-07,Crystal Palace,69.3
+2020-06-20,Crystal Palace,74.4
+2020-06-24,Crystal Palace,72.3
+2020-06-29,Crystal Palace,79.2
+2020-07-04,Crystal Palace,77.5
+2020-07-07,Crystal Palace,76.4
+2020-07-12,Crystal Palace,77.8
+2020-07-16,Crystal Palace,78.2
+2020-07-20,Crystal Palace,77.5
+2020-07-26,Crystal Palace,77.8
+2020-09-12,Crystal Palace,51.9
+2020-09-19,Crystal Palace,58.4
+2020-09-26,Crystal Palace,72.8
+2020-10-03,Crystal Palace,71.3
+2020-10-18,Crystal Palace,66.7
+2020-10-24,Crystal Palace,79.8
+2020-10-30,Crystal Palace,88.3
+2020-11-07,Crystal Palace,70.9
+2020-11-23,Crystal Palace,75.4
+2020-11-27,Crystal Palace,80.2
+2020-12-06,Crystal Palace,86.5
+2020-12-13,Crystal Palace,77.9
+2020-12-16,Crystal Palace,76.5
+2020-12-19,Crystal Palace,74.1
+2020-12-26,Crystal Palace,78.2
+2020-12-28,Crystal Palace,60.3
+2021-01-02,Crystal Palace,71.9
+2021-01-14,Crystal Palace,75.5
+2021-01-17,Crystal Palace,72.6
+2021-01-26,Crystal Palace,77.8
+2021-01-30,Crystal Palace,86.1
+2021-02-02,Crystal Palace,75.8
+2021-02-08,Crystal Palace,76.0
+2021-02-13,Crystal Palace,72.9
+2021-02-22,Crystal Palace,65.9
+2021-02-28,Crystal Palace,76.2
+2021-03-03,Crystal Palace,76.7
+2021-03-07,Crystal Palace,72.7
+2021-03-13,Crystal Palace,67.5
+2021-04-05,Crystal Palace,81.6
+2021-04-10,Crystal Palace,76.8
+2021-04-26,Crystal Palace,64.8
+2021-05-01,Crystal Palace,70.5
+2021-05-08,Crystal Palace,77.8
+2021-05-11,Crystal Palace,74.3
+2021-05-16,Crystal Palace,70.2
+2021-05-19,Crystal Palace,66.7
+2021-05-23,Crystal Palace,63.3
+2021-08-14,Crystal Palace,85.8
+2021-08-21,Crystal Palace,75.3
+2021-08-28,Crystal Palace,81.7
+2021-09-11,Crystal Palace,79.4
+2021-09-18,Crystal Palace,72.9
+2021-09-27,Crystal Palace,81.3
+2021-10-03,Crystal Palace,79.0
+2021-10-18,Crystal Palace,83.4
+2021-10-23,Crystal Palace,84.7
+2021-10-30,Crystal Palace,72.1
+2021-11-06,Crystal Palace,83.1
+2021-11-20,Crystal Palace,79.2
+2021-11-27,Crystal Palace,83.6
+2021-11-30,Crystal Palace,66.8
+2021-12-05,Crystal Palace,71.4
+2021-12-12,Crystal Palace,82.1
+2021-12-15,Crystal Palace,73.1
+2021-12-26,Crystal Palace,81.4
+2021-12-28,Crystal Palace,76.0
+2022-01-01,Crystal Palace,84.1
+2022-01-14,Crystal Palace,71.7
+2022-01-23,Crystal Palace,74.9
+2022-02-09,Crystal Palace,82.8
+2022-02-12,Crystal Palace,75.0
+2022-02-19,Crystal Palace,76.6
+2022-02-23,Crystal Palace,83.1
+2022-02-26,Crystal Palace,74.2
+2022-03-05,Crystal Palace,69.6
+2022-03-14,Crystal Palace,64.4
+2022-04-04,Crystal Palace,69.4
+2022-04-10,Crystal Palace,83.3
+2022-04-20,Crystal Palace,81.3
+2022-04-25,Crystal Palace,74.5
+2022-04-30,Crystal Palace,80.3
+2022-05-07,Crystal Palace,82.7
+2022-05-15,Crystal Palace,82.6
+2022-05-19,Crystal Palace,74.2
+2022-05-22,Crystal Palace,71.7    
+2017-08-13,Tottenham,87.7
+2017-08-20,Tottenham,81.3
+2017-08-27,Tottenham,83.7
+2017-09-09,Tottenham,77.9
+2017-09-16,Tottenham,85.6
+2017-09-23,Tottenham,72.3
+2017-09-30,Tottenham,79.9
+2017-10-14,Tottenham,86.3
+2017-10-22,Tottenham,74.8
+2017-10-28,Tottenham,74.4
+2017-11-05,Tottenham,80.7
+2017-11-18,Tottenham,78.1
+2017-11-25,Tottenham,83.9
+2017-11-28,Tottenham,80.6
+2017-12-02,Tottenham,77.8
+2017-12-09,Tottenham,84.9
+2017-12-13,Tottenham,86.6
+2017-12-16,Tottenham,78.2
+2017-12-23,Tottenham,78.4
+2017-12-26,Tottenham,81.3
+2018-01-02,Tottenham,86.3
+2018-01-04,Tottenham,80.8
+2018-01-13,Tottenham,81.1
+2018-01-21,Tottenham,79.3
+2018-01-31,Tottenham,80.0
+2018-02-04,Tottenham,77.1
+2018-02-10,Tottenham,79.6
+2018-02-25,Tottenham,83.1
+2018-03-03,Tottenham,85.8
+2018-03-11,Tottenham,79.4
+2018-04-01,Tottenham,80.6
+2018-04-07,Tottenham,81.0
+2018-04-14,Tottenham,76.4
+2018-04-17,Tottenham,83.0
+2018-04-30,Tottenham,83.3
+2018-05-05,Tottenham,81.9
+2018-05-09,Tottenham,81.1
+2018-05-13,Tottenham,79.2
+2018-08-11,Tottenham,80.5
+2018-08-18,Tottenham,86.3
+2018-08-27,Tottenham,68.3
+2018-09-02,Tottenham,75.9
+2018-09-15,Tottenham,79.5
+2018-09-22,Tottenham,87.5
+2018-09-29,Tottenham,71.7
+2018-10-06,Tottenham,85.4
+2018-10-20,Tottenham,84.2
+2018-10-29,Tottenham,78.3
+2018-11-03,Tottenham,81.9
+2018-11-10,Tottenham,81.0
+2018-11-24,Tottenham,75.2
+2018-12-02,Tottenham,70.1
+2018-12-05,Tottenham,81.1
+2018-12-08,Tottenham,79.6
+2018-12-15,Tottenham,82.7
+2018-12-23,Tottenham,82.9
+2018-12-26,Tottenham,85.6
+2018-12-29,Tottenham,86.5
+2019-01-01,Tottenham,90.2
+2019-01-13,Tottenham,82.7
+2019-01-20,Tottenham,82.3
+2019-01-30,Tottenham,80.6
+2019-02-02,Tottenham,84.3
+2019-02-10,Tottenham,80.7
+2019-02-23,Tottenham,77.7
+2019-02-27,Tottenham,84.9
+2019-03-02,Tottenham,76.3
+2019-03-09,Tottenham,75.8
+2019-03-31,Tottenham,79.1
+2019-04-03,Tottenham,85.2
+2019-04-13,Tottenham,86.9
+2019-04-20,Tottenham,74.9
+2019-04-23,Tottenham,85.1
+2019-04-27,Tottenham,80.5
+2019-05-04,Tottenham,77.3
+2019-05-12,Tottenham,81.0
+2019-08-10,Tottenham,85.4
+2019-08-17,Tottenham,83.3
+2019-08-25,Tottenham,87.4
+2019-09-01,Tottenham,78.1
+2019-09-14,Tottenham,86.7
+2019-09-21,Tottenham,78.1
+2019-09-28,Tottenham,76.7
+2019-10-05,Tottenham,80.5
+2019-10-19,Tottenham,82.5
+2019-10-27,Tottenham,65.7
+2019-11-03,Tottenham,78.4
+2019-11-09,Tottenham,82.9
+2019-11-23,Tottenham,78.7
+2019-11-30,Tottenham,78.4
+2019-12-04,Tottenham,76.4
+2019-12-07,Tottenham,76.8
+2019-12-15,Tottenham,70.7
+2019-12-22,Tottenham,76.6
+2019-12-26,Tottenham,77.2
+2019-12-28,Tottenham,78.5
+2020-01-01,Tottenham,71.9
+2020-01-11,Tottenham,77.2
+2020-01-18,Tottenham,80.9
+2020-01-22,Tottenham,78.9
+2020-02-02,Tottenham,74.3
+2020-02-16,Tottenham,74.1
+2020-02-22,Tottenham,80.5
+2020-03-01,Tottenham,83.2
+2020-03-07,Tottenham,72.4
+2020-06-19,Tottenham,72.3
+2020-06-23,Tottenham,84.1
+2020-07-02,Tottenham,82.7
+2020-07-06,Tottenham,80.0
+2020-07-09,Tottenham,78.6
+2020-07-12,Tottenham,78.6
+2020-07-15,Tottenham,84.8
+2020-07-19,Tottenham,69.8
+2020-07-26,Tottenham,81.0
+2020-09-13,Tottenham,83.3
+2020-09-20,Tottenham,70.3
+2020-09-27,Tottenham,86.7
+2020-10-04,Tottenham,89.6
+2020-10-18,Tottenham,80.8
+2020-10-26,Tottenham,82.7
+2020-11-01,Tottenham,74.1
+2020-11-08,Tottenham,76.4
+2020-11-21,Tottenham,72.4
+2020-11-29,Tottenham,79.4
+2020-12-06,Tottenham,66.3
+2020-12-13,Tottenham,77.0
+2020-12-16,Tottenham,61.3
+2020-12-20,Tottenham,76.9
+2020-12-27,Tottenham,77.9
+2021-01-02,Tottenham,74.9
+2021-01-13,Tottenham,79.9
+2021-01-17,Tottenham,81.9
+2021-01-28,Tottenham,82.8
+2021-01-31,Tottenham,80.3
+2021-02-04,Tottenham,80.1
+2021-02-07,Tottenham,83.3
+2021-02-13,Tottenham,84.9
+2021-02-21,Tottenham,80.0
+2021-02-28,Tottenham,82.9
+2021-03-04,Tottenham,71.8
+2021-03-07,Tottenham,87.1
+2021-03-14,Tottenham,81.0
+2021-03-21,Tottenham,77.1
+2021-04-04,Tottenham,80.4
+2021-04-11,Tottenham,78.2
+2021-04-16,Tottenham,75.1
+2021-04-21,Tottenham,83.0
+2021-05-02,Tottenham,89.3
+2021-05-08,Tottenham,73.7
+2021-05-16,Tottenham,85.1
+2021-05-19,Tottenham,82.1
+2021-05-23,Tottenham,78.8
+2021-08-15,Tottenham,74.8
+2021-08-22,Tottenham,77.5
+2021-08-29,Tottenham,84.3
+2021-09-11,Tottenham,73.3
+2021-09-19,Tottenham,81.2
+2021-09-26,Tottenham,82.9
+2021-10-03,Tottenham,77.9
+2021-10-17,Tottenham,84.7
+2021-10-24,Tottenham,83.9
+2021-10-30,Tottenham,81.3
+2021-11-07,Tottenham,83.8
+2021-11-21,Tottenham,76.9
+2021-12-02,Tottenham,75.0
+2021-12-05,Tottenham,84.0
+2021-12-19,Tottenham,75.4
+2021-12-26,Tottenham,90.2
+2021-12-28,Tottenham,82.0
+2022-01-01,Tottenham,84.7
+2022-01-19,Tottenham,86.6
+2022-01-23,Tottenham,77.4
+2022-02-09,Tottenham,78.2
+2022-02-13,Tottenham,81.5
+2022-02-19,Tottenham,78.9
+2022-02-23,Tottenham,83.3
+2022-02-26,Tottenham,86.7
+2022-03-07,Tottenham,88.5
+2022-03-12,Tottenham,85.9
+2022-03-16,Tottenham,86.4
+2022-03-20,Tottenham,88.3
+2022-04-03,Tottenham,89.7
+2022-04-09,Tottenham,86.5
+2022-04-16,Tottenham,81.5
+2022-04-23,Tottenham,81.9
+2022-05-01,Tottenham,79.2
+2022-05-07,Tottenham,74.0
+2022-05-12,Tottenham,88.5
+2022-05-15,Tottenham,85.1
+2022-05-22,Tottenham,89.1
+2017-08-12,Southampton,80.7
+2017-08-19,Southampton,82.4
+2017-08-26,Southampton,75.5
+2017-09-09,Southampton,70.1
+2017-09-16,Southampton,78.5
+2017-09-23,Southampton,80.3
+2017-09-30,Southampton,83.6
+2017-10-15,Southampton,82.9
+2017-10-21,Southampton,80.7
+2017-10-29,Southampton,77.4
+2017-11-04,Southampton,78.5
+2017-11-18,Southampton,71.0
+2017-11-26,Southampton,82.8
+2017-11-29,Southampton,57.7
+2017-12-03,Southampton,77.9
+2017-12-10,Southampton,76.5
+2017-12-13,Southampton,78.0
+2017-12-16,Southampton,79.4
+2017-12-23,Southampton,67.3
+2017-12-26,Southampton,71.1
+2017-12-30,Southampton,73.9
+2018-01-02,Southampton,78.0
+2018-01-13,Southampton,65.8
+2018-01-21,Southampton,68.0
+2018-01-31,Southampton,79.5
+2018-02-03,Southampton,76.1
+2018-02-11,Southampton,76.5
+2018-02-24,Southampton,66.8
+2018-03-03,Southampton,74.3
+2018-03-10,Southampton,72.9
+2018-03-31,Southampton,71.6
+2018-04-08,Southampton,69.1
+2018-04-14,Southampton,71.4
+2018-04-19,Southampton,71.2
+2018-04-28,Southampton,69.2
+2018-05-05,Southampton,71.9
+2018-05-08,Southampton,68.9
+2018-05-13,Southampton,64.7
+2018-08-12,Southampton,74.1
+2018-08-18,Southampton,60.9
+2018-08-25,Southampton,80.0
+2018-09-01,Southampton,75.5
+2018-09-17,Southampton,77.9
+2018-09-22,Southampton,79.6
+2018-09-29,Southampton,79.3
+2018-10-07,Southampton,77.6
+2018-10-20,Southampton,68.8
+2018-10-27,Southampton,71.5
+2018-11-04,Southampton,77.7
+2018-11-10,Southampton,66.7
+2018-11-24,Southampton,77.9
+2018-12-01,Southampton,76.2
+2018-12-05,Southampton,77.9
+2018-12-08,Southampton,73.1
+2018-12-16,Southampton,72.4
+2018-12-22,Southampton,64.2
+2018-12-27,Southampton,74.4
+2018-12-30,Southampton,65.9
+2019-01-02,Southampton,64.4
+2019-01-12,Southampton,55.0
+2019-01-19,Southampton,64.8
+2019-01-30,Southampton,80.2
+2019-02-02,Southampton,66.4
+2019-02-09,Southampton,77.9
+2019-02-24,Southampton,68.5
+2019-02-27,Southampton,74.2
+2019-03-02,Southampton,63.5
+2019-03-09,Southampton,67.5
+2019-03-30,Southampton,61.8
+2019-04-05,Southampton,61.0
+2019-04-13,Southampton,62.4
+2019-04-20,Southampton,73.6
+2019-04-23,Southampton,65.7
+2019-04-27,Southampton,70.4
+2019-05-04,Southampton,73.1
+2019-05-12,Southampton,71.7
+2019-08-10,Southampton,62.2
+2019-08-17,Southampton,63.2
+2019-08-24,Southampton,74.1
+2019-08-31,Southampton,71.4
+2019-09-14,Southampton,74.8
+2019-09-20,Southampton,75.5
+2019-09-28,Southampton,83.1
+2019-10-06,Southampton,67.4
+2019-10-19,Southampton,73.4
+2019-10-25,Southampton,61.4
+2019-11-02,Southampton,61.7
+2019-11-09,Southampton,68.7
+2019-11-23,Southampton,72.9
+2019-11-30,Southampton,77.5
+2019-12-04,Southampton,66.7
+2019-12-08,Southampton,70.2
+2019-12-14,Southampton,70.4
+2019-12-21,Southampton,66.2
+2019-12-26,Southampton,62.5
+2019-12-28,Southampton,76.3
+2020-01-01,Southampton,62.9
+2020-01-11,Southampton,57.0
+2020-01-18,Southampton,68.6
+2020-01-21,Southampton,68.9
+2020-02-01,Southampton,62.5
+2020-02-15,Southampton,73.1
+2020-02-22,Southampton,67.4
+2020-02-29,Southampton,72.9
+2020-03-07,Southampton,66.0
+2020-06-19,Southampton,67.3
+2020-06-25,Southampton,77.0
+2020-06-28,Southampton,71.7
+2020-07-05,Southampton,69.3
+2020-07-09,Southampton,79.0
+2020-07-13,Southampton,78.4
+2020-07-16,Southampton,80.1
+2020-07-19,Southampton,67.8
+2020-07-26,Southampton,83.0
+2020-09-12,Southampton,77.9
+2020-09-20,Southampton,74.2
+2020-09-26,Southampton,71.0
+2020-10-04,Southampton,75.9
+2020-10-17,Southampton,74.0
+2020-10-25,Southampton,86.8
+2020-11-01,Southampton,68.7
+2020-11-06,Southampton,81.3
+2020-11-23,Southampton,80.5
+2020-11-29,Southampton,78.4
+2020-12-07,Southampton,74.6
+2020-12-13,Southampton,84.1
+2020-12-16,Southampton,83.1
+2020-12-19,Southampton,79.6
+2020-12-26,Southampton,70.2
+2020-12-29,Southampton,81.5
+2021-01-04,Southampton,65.0
+2021-01-16,Southampton,73.0
+2021-01-26,Southampton,83.8
+2021-01-30,Southampton,77.7
+2021-02-02,Southampton,63.2
+2021-02-06,Southampton,80.7
+2021-02-14,Southampton,76.5
+2021-02-20,Southampton,64.7
+2021-02-23,Southampton,73.5
+2021-03-01,Southampton,74.7
+2021-03-06,Southampton,73.6
+2021-03-10,Southampton,82.1
+2021-03-14,Southampton,77.2
+2021-04-04,Southampton,73.8
+2021-04-12,Southampton,74.1
+2021-04-21,Southampton,73.8
+2021-04-30,Southampton,64.3
+2021-05-08,Southampton,81.6
+2021-05-11,Southampton,84.6
+2021-05-15,Southampton,84.2
+2021-05-18,Southampton,79.6
+2021-05-23,Southampton,80.1
+2021-08-14,Southampton,66.7
+2021-08-22,Southampton,65.7
+2021-08-28,Southampton,82.1
+2021-09-11,Southampton,77.8
+2021-09-18,Southampton,71.6
+2021-09-26,Southampton,79.6
+2021-10-02,Southampton,73.9
+2021-10-16,Southampton,74.0
+2021-10-23,Southampton,73.7
+2021-10-30,Southampton,73.3
+2021-11-05,Southampton,77.9
+2021-11-20,Southampton,80.7
+2021-11-27,Southampton,65.3
+2021-12-01,Southampton,66.8
+2021-12-04,Southampton,63.7
+2021-12-11,Southampton,70.6
+2021-12-15,Southampton,61.9
+2021-12-26,Southampton,75.9
+2021-12-28,Southampton,65.8
+2022-01-11,Southampton,71.3
+2022-01-15,Southampton,75.9
+2022-01-22,Southampton,68.8
+2022-02-09,Southampton,79.2
+2022-02-12,Southampton,78.5
+2022-02-19,Southampton,77.1
+2022-02-25,Southampton,78.1
+2022-03-05,Southampton,81.6
+2022-03-10,Southampton,81.6
+2022-03-13,Southampton,74.8
+2022-04-02,Southampton,62.0
+2022-04-09,Southampton,71.2
+2022-04-16,Southampton,58.8
+2022-04-21,Southampton,78.7
+2022-04-24,Southampton,67.4
+2022-04-30,Southampton,65.5
+2022-05-07,Southampton,76.7
+2022-05-17,Southampton,72.5
+2022-05-22,Southampton,74.7
+2017-08-12,Burnley,73.9
+2017-08-19,Burnley,76.2
+2017-08-27,Burnley,68.9
+2017-09-10,Burnley,58.5
+2017-09-16,Burnley,64.5
+2017-09-23,Burnley,72.0
+2017-10-01,Burnley,58.7
+2017-10-14,Burnley,77.4
+2017-10-21,Burnley,64.7
+2017-10-30,Burnley,72.5
+2017-11-04,Burnley,68.8
+2017-11-18,Burnley,64.9
+2017-11-26,Burnley,73.7
+2017-11-29,Burnley,67.6
+2017-12-02,Burnley,71.9
+2017-12-09,Burnley,64.6
+2017-12-12,Burnley,63.0
+2017-12-16,Burnley,65.8
+2017-12-23,Burnley,64.2
+2017-12-26,Burnley,57.9
+2017-12-30,Burnley,61.4
+2018-01-01,Burnley,69.2
+2018-01-13,Burnley,73.3
+2018-01-20,Burnley,71.5
+2018-01-31,Burnley,64.8
+2018-02-03,Burnley,64.6
+2018-02-10,Burnley,68.4
+2018-02-24,Burnley,66.6
+2018-03-03,Burnley,69.1
+2018-03-10,Burnley,75.5
+2018-03-31,Burnley,77.6
+2018-04-07,Burnley,61.2
+2018-04-14,Burnley,57.9
+2018-04-19,Burnley,72.8
+2018-04-22,Burnley,68.4
+2018-04-28,Burnley,62.7
+2018-05-06,Burnley,77.6
+2018-05-13,Burnley,69.7
+2018-08-12,Burnley,73.6
+2018-08-19,Burnley,71.5
+2018-08-26,Burnley,69.3
+2018-09-02,Burnley,77.7
+2018-09-16,Burnley,73.8
+2018-09-22,Burnley,66.5
+2018-09-30,Burnley,57.4
+2018-10-06,Burnley,62.1
+2018-10-20,Burnley,74.8
+2018-10-28,Burnley,77.3
+2018-11-03,Burnley,64.1
+2018-11-10,Burnley,64.9
+2018-11-26,Burnley,80.9
+2018-12-01,Burnley,72.7
+2018-12-05,Burnley,57.8
+2018-12-08,Burnley,63.0
+2018-12-15,Burnley,61.2
+2018-12-22,Burnley,74.2
+2018-12-26,Burnley,67.6
+2018-12-30,Burnley,71.8
+2019-01-02,Burnley,76.3
+2019-01-12,Burnley,66.7
+2019-01-19,Burnley,61.5
+2019-01-29,Burnley,60.5
+2019-02-02,Burnley,67.6
+2019-02-09,Burnley,58.5
+2019-02-23,Burnley,58.7
+2019-02-26,Burnley,65.9
+2019-03-02,Burnley,72.6
+2019-03-10,Burnley,59.1
+2019-03-16,Burnley,75.9
+2019-03-30,Burnley,62.7
+2019-04-06,Burnley,64.9
+2019-04-13,Burnley,60.1
+2019-04-22,Burnley,61.4
+2019-04-28,Burnley,58.6
+2019-05-03,Burnley,71.4
+2019-05-12,Burnley,75.4
+2019-08-10,Burnley,56.1
+2019-08-17,Burnley,63.1
+2019-08-25,Burnley,64.3
+2019-08-31,Burnley,60.0
+2019-09-14,Burnley,61.2
+2019-09-21,Burnley,74.2
+2019-09-28,Burnley,63.6
+2019-10-05,Burnley,65.3
+2019-10-19,Burnley,69.3
+2019-10-26,Burnley,71.2
+2019-11-02,Burnley,72.8
+2019-11-09,Burnley,66.6
+2019-11-23,Burnley,62.5
+2019-11-30,Burnley,65.0
+2019-12-03,Burnley,65.7
+2019-12-07,Burnley,75.7
+2019-12-14,Burnley,72.7
+2019-12-21,Burnley,58.2
+2019-12-26,Burnley,59.4
+2019-12-28,Burnley,65.3
+2020-01-01,Burnley,76.8
+2020-01-11,Burnley,67.5
+2020-01-19,Burnley,72.3
+2020-01-22,Burnley,59.7
+2020-02-02,Burnley,71.8
+2020-02-15,Burnley,60.1
+2020-02-22,Burnley,63.3
+2020-02-29,Burnley,63.3
+2020-03-07,Burnley,70.6
+2020-06-22,Burnley,75.8
+2020-06-25,Burnley,70.7
+2020-06-29,Burnley,74.2
+2020-07-05,Burnley,71.7
+2020-07-08,Burnley,74.5
+2020-07-11,Burnley,55.6
+2020-07-15,Burnley,69.5
+2020-07-18,Burnley,81.7
+2020-07-26,Burnley,72.2
+2020-09-20,Burnley,67.6
+2020-09-26,Burnley,69.6
+2020-10-03,Burnley,71.9
+2020-10-19,Burnley,66.5
+2020-10-26,Burnley,72.6
+2020-10-31,Burnley,73.7
+2020-11-06,Burnley,74.5
+2020-11-23,Burnley,71.8
+2020-11-28,Burnley,70.1
+2020-12-05,Burnley,75.3
+2020-12-13,Burnley,69.8
+2020-12-17,Burnley,58.8
+2020-12-21,Burnley,65.0
+2020-12-27,Burnley,67.9
+2020-12-29,Burnley,69.4
+2021-01-12,Burnley,64.7
+2021-01-16,Burnley,71.0
+2021-01-21,Burnley,64.0
+2021-01-27,Burnley,57.9
+2021-01-31,Burnley,64.5
+2021-02-03,Burnley,71.6
+2021-02-06,Burnley,76.6
+2021-02-13,Burnley,72.2
+2021-02-17,Burnley,66.6
+2021-02-20,Burnley,73.8
+2021-02-28,Burnley,75.7
+2021-03-03,Burnley,69.1
+2021-03-06,Burnley,70.2
+2021-03-13,Burnley,66.7
+2021-04-04,Burnley,65.3
+2021-04-11,Burnley,72.6
+2021-04-18,Burnley,70.9
+2021-04-25,Burnley,69.9
+2021-05-03,Burnley,68.5
+2021-05-10,Burnley,50.4
+2021-05-15,Burnley,73.4
+2021-05-19,Burnley,72.1
+2021-05-23,Burnley,70.2
+2021-08-14,Burnley,65.1
+2021-08-21,Burnley,63.7
+2021-08-29,Burnley,64.5
+2021-09-13,Burnley,68.0
+2021-09-18,Burnley,69.1
+2021-09-25,Burnley,66.4
+2021-10-02,Burnley,73.1
+2021-10-16,Burnley,70.7
+2021-10-23,Burnley,60.1
+2021-10-30,Burnley,68.1
+2021-11-06,Burnley,68.3
+2021-11-20,Burnley,66.9
+2021-12-01,Burnley,62.1
+2021-12-04,Burnley,69.9
+2021-12-12,Burnley,61.9
+2021-12-30,Burnley,74.1
+2022-01-02,Burnley,61.2
+2022-01-23,Burnley,62.7
+2022-02-05,Burnley,65.7
+2022-02-08,Burnley,66.7
+2022-02-13,Burnley,63.5
+2022-02-19,Burnley,60.0
+2022-02-23,Burnley,75.7
+2022-02-26,Burnley,65.2
+2022-03-01,Burnley,63.8
+2022-03-05,Burnley,65.7
+2022-03-12,Burnley,59.3
+2022-04-02,Burnley,66.3
+2022-04-06,Burnley,63.9
+2022-04-10,Burnley,66.3
+2022-04-17,Burnley,70.7
+2022-04-21,Burnley,68.0
+2022-04-24,Burnley,71.9
+2022-04-30,Burnley,66.7
+2022-05-07,Burnley,76.8
+2022-05-15,Burnley,71.9
+2022-05-19,Burnley,66.4
+2022-05-22,Burnley,67.1
+2017-08-11,Leicester,61.0
+2017-08-19,Leicester,75.5
+2017-08-26,Leicester,67.4
+2017-09-09,Leicester,72.5
+2017-09-16,Leicester,71.1
+2017-09-23,Leicester,63.3
+2017-09-30,Leicester,61.8
+2017-10-16,Leicester,71.8
+2017-10-21,Leicester,69.9
+2017-10-29,Leicester,65.2
+2017-11-04,Leicester,75.7
+2017-11-18,Leicester,66.3
+2017-11-24,Leicester,73.9
+2017-11-28,Leicester,69.8
+2017-12-02,Leicester,70.6
+2017-12-09,Leicester,77.9
+2017-12-13,Leicester,74.0
+2017-12-16,Leicester,76.2
+2017-12-23,Leicester,77.2
+2017-12-26,Leicester,65.5
+2017-12-30,Leicester,66.1
+2018-01-01,Leicester,77.8
+2018-01-13,Leicester,77.5
+2018-01-20,Leicester,75.8
+2018-01-31,Leicester,71.0
+2018-02-03,Leicester,78.6
+2018-02-10,Leicester,65.5
+2018-02-24,Leicester,69.8
+2018-03-03,Leicester,64.4
+2018-03-10,Leicester,75.5
+2018-03-31,Leicester,74.5
+2018-04-07,Leicester,77.1
+2018-04-14,Leicester,70.2
+2018-04-19,Leicester,75.4
+2018-04-28,Leicester,77.9
+2018-05-05,Leicester,74.6
+2018-05-09,Leicester,73.4
+2018-05-13,Leicester,70.2
+2018-08-10,Leicester,79.4
+2018-08-18,Leicester,79.7
+2018-08-25,Leicester,80.1
+2018-09-01,Leicester,78.6
+2018-09-15,Leicester,73.0
+2018-09-22,Leicester,84.5
+2018-09-29,Leicester,77.0
+2018-10-06,Leicester,73.3
+2018-10-22,Leicester,72.7
+2018-10-27,Leicester,77.6
+2018-11-03,Leicester,72.6
+2018-11-10,Leicester,75.3
+2018-11-24,Leicester,73.6
+2018-12-01,Leicester,68.1
+2018-12-05,Leicester,64.8
+2018-12-08,Leicester,76.2
+2018-12-15,Leicester,75.4
+2018-12-22,Leicester,65.6
+2018-12-26,Leicester,70.5
+2018-12-29,Leicester,73.1
+2019-01-01,Leicester,63.3
+2019-01-12,Leicester,75.3
+2019-01-19,Leicester,71.3
+2019-01-30,Leicester,62.7
+2019-02-03,Leicester,77.0
+2019-02-10,Leicester,78.6
+2019-02-23,Leicester,82.3
+2019-02-26,Leicester,80.9
+2019-03-03,Leicester,81.5
+2019-03-09,Leicester,83.2
+2019-03-16,Leicester,64.2
+2019-03-30,Leicester,82.0
+2019-04-06,Leicester,80.6
+2019-04-12,Leicester,82.7
+2019-04-20,Leicester,79.8
+2019-04-28,Leicester,82.0
+2019-05-06,Leicester,79.8
+2019-05-12,Leicester,84.8
+2019-08-11,Leicester,82.4
+2019-08-18,Leicester,75.4
+2019-08-24,Leicester,78.2
+2019-08-31,Leicester,78.6
+2019-09-14,Leicester,75.8
+2019-09-21,Leicester,72.3
+2019-09-29,Leicester,86.6
+2019-10-05,Leicester,72.0
+2019-10-19,Leicester,82.4
+2019-10-25,Leicester,84.6
+2019-11-03,Leicester,80.7
+2019-11-09,Leicester,86.5
+2019-11-23,Leicester,80.0
+2019-12-01,Leicester,81.6
+2019-12-04,Leicester,79.8
+2019-12-08,Leicester,82.9
+2019-12-14,Leicester,80.9
+2019-12-21,Leicester,79.7
+2019-12-26,Leicester,79.3
+2019-12-28,Leicester,79.4
+2020-01-01,Leicester,89.7
+2020-01-11,Leicester,71.3
+2020-01-19,Leicester,77.2
+2020-01-22,Leicester,83.7
+2020-02-01,Leicester,75.8
+2020-02-14,Leicester,81.9
+2020-02-22,Leicester,75.3
+2020-02-28,Leicester,81.0
+2020-03-09,Leicester,80.2
+2020-06-20,Leicester,78.9
+2020-06-23,Leicester,83.6
+2020-07-01,Leicester,83.4
+2020-07-04,Leicester,83.3
+2020-07-07,Leicester,81.1
+2020-07-12,Leicester,78.1
+2020-07-16,Leicester,76.1
+2020-07-19,Leicester,87.9
+2020-07-26,Leicester,80.0
+2020-09-13,Leicester,83.0
+2020-09-20,Leicester,82.0
+2020-09-27,Leicester,72.9
+2020-10-04,Leicester,81.8
+2020-10-18,Leicester,73.7
+2020-10-25,Leicester,81.1
+2020-11-02,Leicester,69.4
+2020-11-08,Leicester,78.7
+2020-11-22,Leicester,77.3
+2020-11-30,Leicester,83.8
+2020-12-06,Leicester,82.2
+2020-12-13,Leicester,84.4
+2020-12-16,Leicester,83.1
+2020-12-20,Leicester,77.1
+2020-12-26,Leicester,78.1
+2020-12-28,Leicester,79.0
+2021-01-03,Leicester,78.0
+2021-01-16,Leicester,71.0
+2021-01-19,Leicester,78.2
+2021-01-27,Leicester,83.3
+2021-01-31,Leicester,73.2
+2021-02-03,Leicester,75.8
+2021-02-07,Leicester,85.9
+2021-02-13,Leicester,68.7
+2021-02-21,Leicester,81.1
+2021-02-28,Leicester,76.9
+2021-03-03,Leicester,80.0
+2021-03-06,Leicester,83.4
+2021-03-14,Leicester,87.8
+2021-04-03,Leicester,81.7
+2021-04-11,Leicester,81.2
+2021-04-22,Leicester,84.8
+2021-04-26,Leicester,81.8
+2021-04-30,Leicester,81.7
+2021-05-07,Leicester,84.4
+2021-05-11,Leicester,80.9
+2021-05-18,Leicester,74.8
+2021-05-23,Leicester,75.3
+2021-08-14,Leicester,85.1
+2021-08-23,Leicester,83.7
+2021-08-28,Leicester,75.4
+2021-09-11,Leicester,80.1
+2021-09-19,Leicester,82.9
+2021-09-25,Leicester,81.5
+2021-10-03,Leicester,67.7
+2021-10-16,Leicester,83.7
+2021-10-24,Leicester,74.0
+2021-10-30,Leicester,85.2
+2021-11-07,Leicester,69.4
+2021-11-20,Leicester,73.8
+2021-11-28,Leicester,68.1
+2021-12-01,Leicester,72.7
+2021-12-05,Leicester,79.9
+2021-12-12,Leicester,77.7
+2021-12-26,Leicester,84.9
+2021-12-28,Leicester,72.1
+2022-01-19,Leicester,85.3
+2022-01-23,Leicester,77.5
+2022-02-10,Leicester,69.5
+2022-02-13,Leicester,81.0
+2022-02-20,Leicester,83.4
+2022-03-01,Leicester,70.2
+2022-03-05,Leicester,77.5
+2022-03-13,Leicester,85.8
+2022-03-20,Leicester,83.6
+2022-04-02,Leicester,83.2
+2022-04-10,Leicester,82.1
+2022-04-17,Leicester,82.1
+2022-04-20,Leicester,80.9
+2022-04-23,Leicester,82.2
+2022-05-01,Leicester,84.3
+2022-05-08,Leicester,84.0
+2022-05-11,Leicester,86.3
+2022-05-15,Leicester,83.4
+2022-05-19,Leicester,78.9
+2022-05-22,Leicester,78.3
+2017-08-12,Liverpool,73.2
+2017-08-19,Liverpool,83.4
+2017-08-27,Liverpool,79.6
+2017-09-09,Liverpool,76.7
+2017-09-16,Liverpool,83.4
+2017-09-23,Liverpool,71.0
+2017-10-01,Liverpool,81.8
+2017-10-14,Liverpool,82.6
+2017-10-22,Liverpool,83.5
+2017-10-28,Liverpool,84.7
+2017-11-04,Liverpool,76.7
+2017-11-18,Liverpool,82.0
+2017-11-25,Liverpool,84.8
+2017-11-29,Liverpool,79.4
+2017-12-02,Liverpool,86.9
+2017-12-10,Liverpool,83.7
+2017-12-13,Liverpool,84.6
+2017-12-17,Liverpool,86.3
+2017-12-22,Liverpool,75.1
+2017-12-26,Liverpool,85.6
+2017-12-30,Liverpool,78.6
+2018-01-01,Liverpool,78.2
+2018-01-14,Liverpool,72.9
+2018-01-22,Liverpool,85.5
+2018-01-30,Liverpool,87.1
+2018-02-04,Liverpool,65.9
+2018-02-11,Liverpool,77.3
+2018-02-24,Liverpool,83.5
+2018-03-03,Liverpool,84.2
+2018-03-10,Liverpool,79.5
+2018-03-17,Liverpool,80.0
+2018-03-31,Liverpool,81.3
+2018-04-07,Liverpool,78.1
+2018-04-14,Liverpool,83.6
+2018-04-21,Liverpool,83.4
+2018-04-28,Liverpool,79.7
+2018-05-06,Liverpool,85.9
+2018-05-13,Liverpool,87.9
+2018-08-12,Liverpool,87.7
+2018-08-20,Liverpool,86.7
+2018-08-25,Liverpool,85.4
+2018-09-01,Liverpool,78.5
+2018-09-15,Liverpool,73.6
+2018-09-22,Liverpool,85.1
+2018-09-29,Liverpool,82.3
+2018-10-07,Liverpool,80.7
+2018-10-20,Liverpool,79.5
+2018-10-27,Liverpool,86.8
+2018-11-03,Liverpool,74.8
+2018-11-11,Liverpool,85.4
+2018-11-24,Liverpool,81.2
+2018-12-02,Liverpool,77.8
+2018-12-05,Liverpool,83.6
+2018-12-08,Liverpool,82.6
+2018-12-16,Liverpool,78.3
+2018-12-21,Liverpool,83.8
+2018-12-26,Liverpool,85.1
+2018-12-29,Liverpool,82.2
+2019-01-03,Liverpool,78.6
+2019-01-12,Liverpool,84.4
+2019-01-19,Liverpool,84.9
+2019-01-30,Liverpool,85.0
+2019-02-04,Liverpool,83.4
+2019-02-09,Liverpool,87.0
+2019-02-24,Liverpool,81.8
+2019-02-27,Liverpool,83.6
+2019-03-03,Liverpool,73.6
+2019-03-10,Liverpool,80.2
+2019-03-17,Liverpool,81.6
+2019-03-31,Liverpool,78.2
+2019-04-05,Liverpool,80.4
+2019-04-14,Liverpool,83.8
+2019-04-21,Liverpool,84.7
+2019-04-26,Liverpool,86.4
+2019-05-04,Liverpool,82.9
+2019-05-12,Liverpool,82.3
+2019-08-09,Liverpool,77.7
+2019-08-17,Liverpool,76.3
+2019-08-24,Liverpool,83.1
+2019-08-31,Liverpool,76.0
+2019-09-14,Liverpool,87.9
+2019-09-22,Liverpool,72.9
+2019-09-28,Liverpool,84.0
+2019-10-05,Liverpool,76.4
+2019-10-20,Liverpool,82.0
+2019-10-27,Liverpool,81.4
+2019-11-02,Liverpool,81.0
+2019-11-10,Liverpool,76.2
+2019-11-23,Liverpool,79.3
+2019-11-30,Liverpool,79.4
+2019-12-04,Liverpool,79.0
+2019-12-07,Liverpool,87.0
+2019-12-14,Liverpool,80.1
+2019-12-26,Liverpool,82.4
+2019-12-29,Liverpool,84.2
+2020-01-02,Liverpool,88.5
+2020-01-11,Liverpool,85.3
+2020-01-19,Liverpool,76.1
+2020-01-23,Liverpool,83.1
+2020-01-29,Liverpool,87.3
+2020-02-01,Liverpool,74.5
+2020-02-15,Liverpool,81.2
+2020-02-24,Liverpool,81.6
+2020-02-29,Liverpool,82.0
+2020-03-07,Liverpool,82.8
+2020-06-21,Liverpool,83.0
+2020-09-12,Liverpool,73.6
+2020-09-20,Liverpool,87.1
+2020-09-28,Liverpool,86.5
+2020-10-04,Liverpool,83.5
+2020-10-17,Liverpool,81.2
+2020-10-24,Liverpool,84.4
+2020-10-31,Liverpool,87.2
+2020-11-08,Liverpool,79.6
+2020-11-22,Liverpool,83.3
+2020-11-28,Liverpool,80.4
+2020-12-06,Liverpool,87.6
+2020-12-13,Liverpool,83.9
+2020-12-16,Liverpool,85.9
+2020-12-19,Liverpool,86.7
+2020-12-27,Liverpool,86.2
+2020-12-30,Liverpool,83.0
+2021-01-04,Liverpool,78.3
+2021-01-17,Liverpool,84.3
+2021-01-21,Liverpool,81.9
+2021-01-28,Liverpool,84.5
+2021-01-31,Liverpool,88.1
+2021-02-03,Liverpool,83.2
+2021-02-07,Liverpool,86.1
+2021-02-13,Liverpool,78.9
+2021-02-20,Liverpool,85.2
+2021-02-28,Liverpool,82.9
+2021-03-04,Liverpool,85.6
+2021-03-07,Liverpool,81.0
+2021-03-15,Liverpool,75.3
+2021-04-03,Liverpool,85.0
+2021-04-10,Liverpool,80.3
+2021-04-19,Liverpool,75.4
+2021-04-24,Liverpool,89.4
+2021-05-08,Liverpool,84.4
+2021-05-13,Liverpool,78.1
+2021-05-16,Liverpool,84.8
+2021-05-19,Liverpool,83.0
+2021-05-23,Liverpool,83.2
+2021-08-14,Liverpool,82.0
+2021-08-21,Liverpool,80.5
+2021-08-28,Liverpool,83.2
+2021-09-12,Liverpool,83.1
+2021-09-18,Liverpool,80.7
+2021-09-25,Liverpool,80.7
+2021-10-03,Liverpool,82.5
+2021-10-16,Liverpool,85.5
+2021-10-24,Liverpool,88.3
+2021-10-30,Liverpool,84.3
+2021-11-07,Liverpool,84.4
+2021-11-20,Liverpool,86.7
+2021-11-27,Liverpool,79.7
+2021-12-01,Liverpool,79.7
+2021-12-04,Liverpool,82.7
+2021-12-11,Liverpool,80.1
+2021-12-16,Liverpool,83.4
+2021-12-19,Liverpool,79.2
+2021-12-28,Liverpool,78.2
+2022-01-02,Liverpool,75.5
+2022-01-16,Liverpool,79.9
+2022-01-23,Liverpool,78.7
+2022-02-10,Liverpool,82.2
+2022-02-13,Liverpool,80.6
+2022-02-19,Liverpool,85.6
+2022-02-23,Liverpool,85.9
+2022-03-05,Liverpool,85.2
+2022-03-12,Liverpool,77.0
+2022-03-16,Liverpool,79.9
+2022-04-02,Liverpool,83.7
+2022-04-10,Liverpool,80.3
+2022-04-19,Liverpool,89.9
+2022-04-24,Liverpool,86.0
+2022-04-30,Liverpool,81.8
+2022-05-07,Liverpool,81.7
+2022-05-10,Liverpool,81.4
+2022-05-17,Liverpool,86.3
+2022-05-22,Liverpool,86.6
+2017-08-13,Manchester United,82.2
+2017-08-19,Manchester United,85.1
+2017-08-26,Manchester United,83.4
+2017-09-09,Manchester United,83.6
+2017-09-17,Manchester United,80.2
+2017-09-23,Manchester United,76.6
+2017-09-30,Manchester United,82.7
+2017-10-14,Manchester United,72.8
+2017-10-21,Manchester United,84.2
+2017-10-28,Manchester United,67.8
+2017-11-05,Manchester United,74.4
+2017-11-18,Manchester United,84.0
+2017-11-25,Manchester United,81.4
+2017-11-28,Manchester United,73.1
+2017-12-02,Manchester United,66.7
+2017-12-10,Manchester United,68.9
+2017-12-13,Manchester United,82.4
+2017-12-17,Manchester United,81.7
+2017-12-23,Manchester United,79.1
+2017-12-26,Manchester United,80.3
+2017-12-30,Manchester United,81.4
+2018-01-01,Manchester United,83.3
+2018-01-15,Manchester United,87.6
+2018-01-20,Manchester United,77.0
+2018-01-31,Manchester United,77.3
+2018-02-03,Manchester United,87.5
+2018-02-11,Manchester United,78.4
+2018-02-25,Manchester United,79.4
+2018-03-05,Manchester United,82.3
+2018-03-10,Manchester United,67.5
+2018-03-31,Manchester United,88.3
+2018-04-07,Manchester United,74.6
+2018-04-15,Manchester United,86.0
+2018-04-18,Manchester United,82.1
+2018-04-29,Manchester United,85.8
+2018-05-04,Manchester United,86.8
+2018-05-10,Manchester United,85.0
+2018-05-13,Manchester United,78.5
+2018-08-10,Manchester United,80.1
+2018-08-19,Manchester United,82.9
+2018-08-27,Manchester United,75.2
+2018-09-02,Manchester United,83.6
+2018-09-15,Manchester United,78.3
+2018-09-22,Manchester United,83.4
+2018-09-29,Manchester United,81.3
+2018-10-06,Manchester United,80.4
+2018-10-20,Manchester United,74.7
+2018-10-28,Manchester United,77.5
+2018-11-03,Manchester United,76.5
+2018-11-11,Manchester United,81.9
+2018-11-24,Manchester United,79.2
+2018-12-01,Manchester United,81.0
+2018-12-05,Manchester United,78.7
+2018-12-08,Manchester United,83.4
+2018-12-16,Manchester United,65.1
+2018-12-22,Manchester United,85.4
+2018-12-26,Manchester United,82.2
+2018-12-30,Manchester United,89.2
+2019-01-02,Manchester United,86.3
+2019-01-13,Manchester United,73.7
+2019-01-19,Manchester United,82.9
+2019-01-29,Manchester United,84.2
+2019-02-03,Manchester United,80.3
+2019-02-09,Manchester United,76.0
+2019-02-24,Manchester United,72.5
+2019-02-27,Manchester United,79.8
+2019-03-02,Manchester United,78.4
+2019-03-10,Manchester United,79.9
+2019-03-30,Manchester United,77.7
+2019-04-02,Manchester United,79.6
+2019-04-13,Manchester United,74.5
+2019-04-21,Manchester United,76.6
+2019-04-24,Manchester United,77.6
+2019-04-28,Manchester United,81.7
+2019-05-05,Manchester United,83.8
+2019-05-12,Manchester United,83.1
+2019-08-11,Manchester United,79.4
+2019-08-19,Manchester United,85.2
+2019-08-24,Manchester United,83.5
+2019-08-31,Manchester United,77.4
+2019-09-14,Manchester United,75.0
+2019-09-22,Manchester United,80.8
+2019-09-30,Manchester United,77.8
+2019-10-06,Manchester United,84.1
+2019-10-20,Manchester United,64.5
+2019-10-27,Manchester United,82.0
+2019-11-02,Manchester United,75.4
+2019-11-10,Manchester United,77.4
+2019-11-24,Manchester United,80.4
+2019-12-01,Manchester United,82.5
+2019-12-04,Manchester United,74.5
+2019-12-07,Manchester United,72.3
+2019-12-15,Manchester United,82.4
+2019-12-22,Manchester United,82.6
+2019-12-26,Manchester United,88.7
+2019-12-28,Manchester United,79.9
+2020-01-01,Manchester United,83.6
+2020-01-11,Manchester United,84.2
+2020-01-19,Manchester United,75.9
+2020-01-22,Manchester United,83.3
+2020-02-01,Manchester United,86.4
+2020-02-17,Manchester United,78.1
+2020-02-23,Manchester United,79.7
+2020-03-01,Manchester United,74.6
+2020-03-08,Manchester United,72.2
+2020-06-19,Manchester United,81.1
+2020-06-24,Manchester United,89.5
+2020-06-30,Manchester United,86.8
+2020-07-04,Manchester United,86.5
+2020-07-09,Manchester United,87.1
+2020-07-13,Manchester United,78.2
+2020-07-16,Manchester United,86.2
+2020-07-22,Manchester United,85.4
+2020-07-26,Manchester United,81.7
+2020-09-19,Manchester United,83.6
+2020-09-26,Manchester United,82.1
+2020-10-04,Manchester United,82.4
+2020-10-17,Manchester United,84.0
+2020-10-24,Manchester United,81.1
+2020-11-01,Manchester United,83.3
+2020-11-07,Manchester United,81.2
+2020-11-21,Manchester United,83.0
+2020-11-29,Manchester United,79.2
+2020-12-05,Manchester United,85.3
+2020-12-12,Manchester United,84.4
+2020-12-17,Manchester United,82.7
+2020-12-20,Manchester United,75.6
+2020-12-26,Manchester United,78.4
+2020-12-29,Manchester United,85.4
+2021-01-01,Manchester United,79.8
+2021-01-12,Manchester United,81.7
+2021-01-17,Manchester United,71.8
+2021-01-20,Manchester United,83.3
+2021-01-27,Manchester United,87.0
+2021-01-30,Manchester United,83.9
+2021-02-02,Manchester United,85.7
+2021-02-06,Manchester United,87.7
+2021-02-14,Manchester United,83.9
+2021-02-21,Manchester United,85.5
+2021-02-28,Manchester United,80.5
+2021-03-03,Manchester United,84.5
+2021-03-07,Manchester United,78.2
+2021-03-14,Manchester United,88.5
+2021-04-04,Manchester United,82.7
+2021-04-11,Manchester United,81.7
+2021-04-18,Manchester United,86.6
+2021-04-25,Manchester United,83.9
+2021-05-09,Manchester United,83.9
+2021-05-11,Manchester United,81.6
+2021-05-13,Manchester United,77.7
+2021-05-18,Manchester United,83.0
+2021-05-23,Manchester United,86.0
+2021-08-14,Manchester United,78.1
+2021-08-22,Manchester United,78.6
+2021-08-29,Manchester United,84.1
+2021-09-11,Manchester United,87.8
+2021-09-19,Manchester United,86.8
+2021-09-25,Manchester United,75.1
+2021-10-02,Manchester United,84.8
+2021-10-16,Manchester United,84.1
+2021-10-24,Manchester United,78.1
+2021-10-30,Manchester United,80.0
+2021-11-06,Manchester United,79.7
+2021-11-20,Manchester United,78.8
+2021-11-28,Manchester United,72.5
+2021-12-02,Manchester United,80.0
+2021-12-05,Manchester United,80.7
+2021-12-11,Manchester United,80.3
+2021-12-27,Manchester United,78.9
+2021-12-30,Manchester United,75.5
+2022-01-03,Manchester United,78.3
+2022-01-15,Manchester United,81.1
+2022-01-19,Manchester United,76.4
+2022-01-22,Manchester United,80.2
+2022-02-08,Manchester United,78.9
+2022-02-12,Manchester United,79.5
+2022-02-15,Manchester United,79.1
+2022-02-20,Manchester United,72.4
+2022-02-26,Manchester United,83.1
+2022-03-06,Manchester United,81.0
+2022-03-12,Manchester United,84.2
+2022-04-02,Manchester United,84.2
+2022-04-09,Manchester United,79.9
+2022-04-16,Manchester United,87.5
+2022-04-19,Manchester United,73.4
+2022-04-23,Manchester United,79.4
+2022-04-28,Manchester United,76.5
+2022-05-02,Manchester United,90.0
+2022-05-07,Manchester United,81.8
+2022-05-22,Manchester United,80.1
+2017-08-12,Chelsea,82.4
+2017-08-20,Chelsea,68.7
+2017-08-27,Chelsea,83.2
+2017-09-09,Chelsea,81.1
+2017-09-17,Chelsea,76.6
+2017-09-23,Chelsea,84.3
+2017-09-30,Chelsea,76.7
+2017-10-14,Chelsea,79.7
+2017-10-21,Chelsea,78.6
+2017-10-28,Chelsea,85.0
+2017-11-05,Chelsea,76.0
+2017-11-18,Chelsea,84.9
+2017-11-25,Chelsea,80.0
+2017-11-29,Chelsea,81.3
+2017-12-02,Chelsea,84.6
+2017-12-09,Chelsea,84.0
+2017-12-12,Chelsea,89.2
+2017-12-16,Chelsea,83.9
+2017-12-23,Chelsea,80.4
+2017-12-26,Chelsea,86.5
+2017-12-30,Chelsea,88.5
+2018-01-03,Chelsea,79.6
+2018-01-13,Chelsea,80.5
+2018-01-20,Chelsea,84.9
+2018-01-31,Chelsea,82.0
+2018-02-05,Chelsea,81.6
+2018-02-12,Chelsea,82.3
+2018-02-25,Chelsea,83.5
+2018-03-04,Chelsea,75.8
+2018-03-10,Chelsea,84.5
+2018-04-01,Chelsea,75.4
+2018-04-08,Chelsea,83.4
+2018-04-14,Chelsea,78.4
+2018-04-19,Chelsea,83.3
+2018-04-28,Chelsea,85.6
+2018-05-06,Chelsea,71.2
+2018-05-09,Chelsea,83.9
+2018-05-13,Chelsea,84.5
+2018-08-11,Chelsea,87.7
+2018-08-18,Chelsea,87.3
+2018-08-26,Chelsea,89.8
+2018-09-01,Chelsea,85.1
+2018-09-15,Chelsea,86.5
+2018-09-23,Chelsea,85.4
+2018-09-29,Chelsea,82.1
+2018-10-07,Chelsea,86.0
+2018-10-20,Chelsea,87.1
+2018-10-28,Chelsea,89.9
+2018-11-04,Chelsea,89.1
+2018-11-11,Chelsea,87.6
+2018-11-24,Chelsea,82.7
+2018-12-02,Chelsea,87.7
+2018-12-05,Chelsea,86.6
+2018-12-08,Chelsea,81.9
+2018-12-16,Chelsea,86.3
+2018-12-22,Chelsea,84.0
+2018-12-26,Chelsea,87.2
+2018-12-30,Chelsea,86.8
+2019-01-02,Chelsea,82.9
+2019-01-12,Chelsea,83.3
+2019-01-19,Chelsea,85.1
+2019-01-30,Chelsea,85.9
+2019-02-02,Chelsea,87.1
+2019-02-10,Chelsea,87.2
+2019-02-27,Chelsea,80.4
+2019-03-03,Chelsea,89.4
+2019-03-10,Chelsea,87.4
+2019-03-17,Chelsea,82.9
+2019-03-31,Chelsea,82.3
+2019-04-03,Chelsea,89.6
+2019-04-08,Chelsea,83.0
+2019-04-14,Chelsea,78.7
+2019-04-22,Chelsea,83.6
+2019-04-28,Chelsea,82.6
+2019-05-05,Chelsea,82.3
+2019-05-12,Chelsea,85.0
+2019-08-11,Chelsea,82.7
+2019-08-18,Chelsea,76.5
+2019-08-24,Chelsea,82.3
+2019-08-31,Chelsea,85.9
+2019-09-14,Chelsea,83.9
+2019-09-22,Chelsea,77.5
+2019-09-28,Chelsea,84.6
+2019-10-06,Chelsea,74.7
+2019-10-19,Chelsea,84.2
+2019-10-26,Chelsea,83.9
+2019-11-02,Chelsea,88.6
+2019-11-09,Chelsea,84.8
+2019-11-23,Chelsea,87.6
+2019-11-30,Chelsea,84.0
+2019-12-04,Chelsea,84.9
+2019-12-07,Chelsea,83.4
+2019-12-14,Chelsea,78.8
+2019-12-22,Chelsea,79.7
+2019-12-26,Chelsea,78.0
+2019-12-29,Chelsea,81.5
+2020-01-01,Chelsea,79.2
+2020-01-11,Chelsea,80.9
+2020-01-18,Chelsea,82.3
+2020-01-21,Chelsea,84.3
+2020-02-01,Chelsea,77.1
+2020-02-17,Chelsea,84.4
+2020-02-22,Chelsea,81.7
+2020-02-29,Chelsea,84.6
+2020-03-08,Chelsea,87.3
+2020-06-21,Chelsea,82.8
+2020-06-25,Chelsea,80.8
+2020-07-01,Chelsea,86.1
+2020-07-04,Chelsea,88.9
+2020-07-07,Chelsea,81.9
+2020-07-11,Chelsea,85.9
+2020-07-14,Chelsea,87.8
+2020-07-22,Chelsea,81.4
+2020-07-26,Chelsea,81.9
+2020-09-14,Chelsea,82.0
+2020-09-20,Chelsea,84.4
+2020-09-26,Chelsea,86.4
+2020-10-03,Chelsea,88.1
+2020-10-17,Chelsea,81.1
+2020-10-24,Chelsea,81.1
+2020-10-31,Chelsea,86.1
+2020-11-07,Chelsea,87.0
+2020-11-21,Chelsea,88.7
+2020-11-29,Chelsea,86.7
+2020-12-05,Chelsea,77.6
+2020-12-12,Chelsea,81.6
+2020-12-15,Chelsea,82.4
+2020-12-21,Chelsea,81.3
+2020-12-26,Chelsea,81.3
+2020-12-28,Chelsea,79.9
+2021-01-03,Chelsea,88.2
+2021-01-16,Chelsea,85.5
+2021-01-19,Chelsea,86.8
+2021-01-27,Chelsea,89.7
+2021-01-31,Chelsea,85.5
+2021-02-04,Chelsea,86.7
+2021-02-07,Chelsea,85.6
+2021-02-15,Chelsea,85.8
+2021-02-20,Chelsea,84.0
+2021-02-28,Chelsea,87.0
+2021-03-04,Chelsea,83.6
+2021-03-08,Chelsea,88.4
+2021-03-13,Chelsea,82.5
+2021-04-03,Chelsea,83.7
+2021-04-10,Chelsea,87.7
+2021-04-20,Chelsea,87.5
+2021-04-24,Chelsea,82.4
+2021-05-01,Chelsea,83.8
+2021-05-08,Chelsea,88.0
+2021-05-12,Chelsea,87.2
+2021-05-18,Chelsea,83.4
+2021-05-23,Chelsea,84.4
+2021-08-14,Chelsea,89.8
+2021-08-22,Chelsea,87.7
+2021-08-28,Chelsea,71.5
+2021-09-11,Chelsea,81.1
+2021-09-19,Chelsea,84.5
+2021-09-25,Chelsea,79.9
+2021-10-02,Chelsea,84.1
+2021-10-16,Chelsea,81.8
+2021-10-23,Chelsea,89.0
+2021-10-30,Chelsea,87.9
+2021-11-06,Chelsea,85.3
+2021-11-20,Chelsea,83.9
+2021-11-28,Chelsea,83.0
+2021-12-01,Chelsea,70.7
+2021-12-04,Chelsea,83.0
+2021-12-11,Chelsea,82.8
+2021-12-16,Chelsea,88.9
+2021-12-19,Chelsea,84.7
+2021-12-26,Chelsea,86.2
+2021-12-29,Chelsea,77.7
+2022-01-02,Chelsea,79.6
+2022-01-15,Chelsea,82.8
+2022-01-18,Chelsea,84.1
+2022-01-23,Chelsea,84.7
+2022-02-19,Chelsea,81.2
+2022-03-05,Chelsea,88.7
+2022-03-10,Chelsea,90.6
+2022-03-13,Chelsea,83.9
+2022-04-02,Chelsea,87.2
+2022-04-09,Chelsea,88.1
+2022-04-20,Chelsea,84.3
+2022-04-24,Chelsea,86.5
+2022-04-28,Chelsea,85.9
+2022-05-01,Chelsea,86.5
+2022-05-07,Chelsea,83.6
+2022-05-11,Chelsea,89.3
+2022-05-19,Chelsea,90.3
+2022-05-22,Chelsea,89.4
+2017-08-12,Manchester City,87.6
+2017-08-21,Manchester City,79.9
+2017-08-26,Manchester City,84.3
+2017-09-09,Manchester City,88.2
+2017-09-16,Manchester City,88.0
+2017-09-23,Manchester City,89.1
+2017-09-30,Manchester City,86.9
+2017-10-14,Manchester City,90.2
+2017-10-21,Manchester City,88.8
+2017-10-28,Manchester City,89.8
+2017-11-05,Manchester City,85.6
+2017-11-18,Manchester City,88.3
+2017-11-26,Manchester City,86.0
+2017-11-29,Manchester City,84.3
+2017-12-03,Manchester City,85.9
+2017-12-10,Manchester City,81.8
+2017-12-13,Manchester City,90.5
+2017-12-16,Manchester City,79.4
+2017-12-23,Manchester City,89.8
+2017-12-27,Manchester City,88.0
+2017-12-31,Manchester City,85.6
+2018-01-02,Manchester City,90.1
+2018-01-14,Manchester City,84.3
+2018-01-20,Manchester City,87.5
+2018-01-31,Manchester City,85.7
+2018-02-03,Manchester City,85.3
+2018-02-10,Manchester City,85.6
+2018-03-01,Manchester City,85.0
+2018-03-04,Manchester City,91.1
+2018-03-12,Manchester City,88.5
+2018-03-31,Manchester City,91.5
+2018-04-07,Manchester City,85.5
+2018-04-14,Manchester City,82.1
+2018-04-22,Manchester City,91.1
+2018-04-29,Manchester City,91.2
+2018-05-06,Manchester City,84.8
+2018-05-09,Manchester City,90.8
+2018-05-13,Manchester City,83.2
+2018-08-12,Manchester City,81.9
+2018-08-19,Manchester City,90.8
+2018-08-25,Manchester City,86.1
+2018-09-01,Manchester City,88.3
+2018-09-15,Manchester City,89.0
+2018-09-22,Manchester City,89.2
+2018-09-29,Manchester City,90.9
+2018-10-07,Manchester City,80.7
+2018-10-20,Manchester City,86.7
+2018-10-29,Manchester City,81.5
+2018-11-04,Manchester City,90.3
+2018-11-11,Manchester City,89.1
+2018-11-24,Manchester City,88.5
+2018-12-01,Manchester City,89.3
+2018-12-04,Manchester City,85.7
+2018-12-08,Manchester City,85.7
+2018-12-15,Manchester City,85.4
+2018-12-22,Manchester City,85.3
+2018-12-26,Manchester City,82.4
+2018-12-30,Manchester City,87.6
+2019-01-03,Manchester City,79.9
+2019-01-14,Manchester City,89.4
+2019-01-20,Manchester City,86.8
+2019-01-29,Manchester City,86.5
+2019-02-03,Manchester City,85.2
+2019-02-06,Manchester City,83.5
+2019-02-10,Manchester City,92.3
+2019-02-27,Manchester City,84.6
+2019-03-02,Manchester City,88.2
+2019-03-09,Manchester City,88.7
+2019-03-30,Manchester City,88.2
+2019-04-03,Manchester City,89.0
+2019-04-14,Manchester City,87.1
+2019-04-20,Manchester City,85.2
+2019-04-24,Manchester City,86.1
+2019-04-28,Manchester City,83.6
+2019-05-06,Manchester City,83.9
+2019-05-12,Manchester City,90.5
+2019-08-10,Manchester City,85.5
+2019-08-17,Manchester City,86.8
+2019-08-25,Manchester City,88.2
+2019-08-31,Manchester City,87.8
+2019-09-14,Manchester City,84.4
+2019-09-21,Manchester City,88.6
+2019-09-28,Manchester City,89.4
+2019-10-06,Manchester City,85.9
+2019-10-19,Manchester City,85.1
+2019-10-26,Manchester City,86.3
+2019-11-02,Manchester City,82.2
+2019-11-10,Manchester City,79.2
+2019-11-23,Manchester City,83.4
+2019-11-30,Manchester City,85.5
+2019-12-03,Manchester City,86.3
+2019-12-07,Manchester City,84.9
+2019-12-15,Manchester City,89.4
+2019-12-21,Manchester City,88.6
+2019-12-27,Manchester City,78.8
+2019-12-29,Manchester City,89.5
+2020-01-01,Manchester City,89.1
+2020-01-12,Manchester City,91.2
+2020-01-18,Manchester City,85.3
+2020-01-21,Manchester City,84.5
+2020-02-02,Manchester City,85.8
+2020-02-19,Manchester City,88.7
+2020-02-22,Manchester City,87.2
+2020-03-08,Manchester City,85.8
+2020-06-17,Manchester City,91.7
+2020-06-22,Manchester City,90.9
+2020-06-25,Manchester City,89.3
+2020-07-02,Manchester City,82.9
+2020-07-05,Manchester City,85.8
+2020-07-08,Manchester City,91.6
+2020-07-11,Manchester City,89.1
+2020-07-15,Manchester City,87.0
+2020-07-21,Manchester City,87.5
+2020-07-26,Manchester City,89.7
+2020-09-21,Manchester City,86.0
+2020-09-27,Manchester City,87.5
+2020-10-03,Manchester City,79.1
+2020-10-17,Manchester City,87.7
+2020-10-24,Manchester City,87.6
+2020-10-31,Manchester City,86.7
+2020-11-08,Manchester City,84.1
+2020-11-21,Manchester City,85.6
+2020-11-28,Manchester City,88.0
+2020-12-05,Manchester City,88.8
+2020-12-12,Manchester City,85.0
+2020-12-15,Manchester City,87.7
+2020-12-19,Manchester City,84.1
+2020-12-26,Manchester City,89.6
+2021-01-03,Manchester City,87.3
+2021-01-13,Manchester City,88.0
+2021-01-17,Manchester City,88.2
+2021-01-20,Manchester City,84.8
+2021-01-26,Manchester City,89.9
+2021-01-30,Manchester City,89.2
+2021-02-03,Manchester City,90.8
+2021-02-07,Manchester City,84.7
+2021-02-13,Manchester City,90.0
+2021-02-17,Manchester City,87.9
+2021-02-21,Manchester City,87.7
+2021-02-27,Manchester City,87.5
+2021-03-02,Manchester City,89.5
+2021-03-07,Manchester City,88.2
+2021-03-10,Manchester City,90.1
+2021-03-13,Manchester City,83.8
+2021-04-03,Manchester City,86.0
+2021-04-10,Manchester City,85.9
+2021-04-21,Manchester City,90.1
+2021-05-01,Manchester City,86.1
+2021-05-08,Manchester City,89.1
+2021-05-14,Manchester City,92.3
+2021-05-18,Manchester City,82.5
+2021-05-23,Manchester City,90.6
+2021-08-15,Manchester City,81.9
+2021-08-21,Manchester City,90.8
+2021-08-28,Manchester City,88.7
+2021-09-11,Manchester City,86.6
+2021-09-18,Manchester City,85.1
+2021-09-25,Manchester City,84.8
+2021-10-03,Manchester City,81.9
+2021-10-16,Manchester City,87.5
+2021-10-23,Manchester City,86.3
+2021-10-30,Manchester City,83.1
+2021-11-06,Manchester City,89.9
+2021-11-21,Manchester City,91.6
+2021-11-28,Manchester City,88.3
+2021-12-01,Manchester City,87.6
+2021-12-04,Manchester City,90.2
+2021-12-11,Manchester City,88.4
+2021-12-14,Manchester City,90.2
+2021-12-19,Manchester City,90.3
+2021-12-26,Manchester City,92.0
+2021-12-29,Manchester City,86.3
+2022-01-01,Manchester City,87.8
+2022-01-15,Manchester City,84.3
+2022-01-22,Manchester City,86.4
+2022-02-09,Manchester City,85.9
+2022-02-12,Manchester City,87.9
+2022-02-19,Manchester City,87.6
+2022-02-26,Manchester City,85.9
+2022-03-06,Manchester City,91.5
+2022-03-14,Manchester City,85.5
+2022-04-02,Manchester City,87.5
+2022-04-10,Manchester City,83.4
+2022-04-20,Manchester City,86.4
+2022-04-23,Manchester City,86.9
+2022-04-30,Manchester City,86.7
+2022-05-08,Manchester City,88.9
+2022-05-11,Manchester City,90.2
+2022-05-15,Manchester City,87.5
+2022-05-22,Manchester City,84.8
+2017-08-12,Everton,78.0
+2017-08-21,Everton,64.7
+2017-08-27,Everton,78.8
+2017-09-09,Everton,77.3
+2017-09-17,Everton,80.3
+2017-09-23,Everton,76.0
+2017-10-01,Everton,76.0
+2017-10-15,Everton,76.9
+2017-10-22,Everton,68.3
+2017-10-29,Everton,76.4
+2017-11-05,Everton,64.8
+2017-11-18,Everton,62.4
+2017-11-26,Everton,70.0
+2017-11-29,Everton,76.7
+2017-12-02,Everton,70.1
+2017-12-10,Everton,50.2
+2017-12-13,Everton,72.0
+2017-12-18,Everton,76.8
+2017-12-23,Everton,69.9
+2017-12-26,Everton,67.5
+2017-12-30,Everton,72.3
+2018-01-01,Everton,74.3
+2018-01-13,Everton,70.4
+2018-01-20,Everton,71.3
+2018-01-31,Everton,65.5
+2018-02-03,Everton,77.2
+2018-02-10,Everton,73.5
+2018-02-24,Everton,66.4
+2018-03-03,Everton,64.8
+2018-03-10,Everton,74.5
+2018-03-17,Everton,76.5
+2018-03-31,Everton,64.5
+2018-04-07,Everton,67.5
+2018-04-14,Everton,74.9
+2018-04-23,Everton,73.9
+2018-04-28,Everton,68.9
+2018-05-05,Everton,76.2
+2018-05-13,Everton,76.1
+2018-08-11,Everton,72.8
+2018-08-18,Everton,72.3
+2018-08-25,Everton,77.0
+2018-09-01,Everton,80.1
+2018-09-16,Everton,75.8
+2018-09-23,Everton,72.1
+2018-09-29,Everton,77.0
+2018-10-06,Everton,71.3
+2018-10-21,Everton,80.4
+2018-10-28,Everton,78.2
+2018-11-03,Everton,78.2
+2018-11-11,Everton,73.6
+2018-11-24,Everton,78.3
+2018-12-02,Everton,71.7
+2018-12-05,Everton,79.9
+2018-12-10,Everton,75.3
+2018-12-15,Everton,75.7
+2018-12-23,Everton,73.7
+2018-12-26,Everton,70.5
+2018-12-29,Everton,73.2
+2019-01-01,Everton,71.8
+2019-01-13,Everton,73.1
+2019-01-19,Everton,71.9
+2019-01-29,Everton,71.4
+2019-02-02,Everton,78.7
+2019-02-06,Everton,72.8
+2019-02-09,Everton,71.9
+2019-02-26,Everton,76.8
+2019-03-03,Everton,62.9
+2019-03-09,Everton,73.1
+2019-03-17,Everton,72.0
+2019-03-30,Everton,76.4
+2019-04-07,Everton,75.5
+2019-04-13,Everton,74.4
+2019-04-21,Everton,75.7
+2019-04-27,Everton,76.4
+2019-05-03,Everton,80.8
+2019-05-12,Everton,79.9
+2019-08-10,Everton,78.5
+2019-08-17,Everton,66.4
+2019-08-23,Everton,78.4
+2019-09-01,Everton,78.3
+2019-09-15,Everton,74.5
+2019-09-21,Everton,79.1
+2019-09-28,Everton,79.0
+2019-10-05,Everton,74.1
+2019-10-19,Everton,70.8
+2019-10-26,Everton,78.3
+2019-11-03,Everton,72.9
+2019-11-09,Everton,69.7
+2019-11-23,Everton,73.2
+2019-12-01,Everton,65.2
+2019-12-04,Everton,68.6
+2019-12-07,Everton,60.6
+2019-12-15,Everton,64.3
+2019-12-21,Everton,75.3
+2019-12-26,Everton,79.0
+2019-12-28,Everton,76.7
+2020-01-01,Everton,76.9
+2020-01-11,Everton,76.2
+2020-01-18,Everton,76.5
+2020-01-21,Everton,81.5
+2020-02-01,Everton,72.4
+2020-02-08,Everton,71.5
+2020-02-23,Everton,82.6
+2020-03-01,Everton,70.1
+2020-03-08,Everton,77.6
+2020-06-21,Everton,67.1
+2020-06-24,Everton,78.7
+2020-07-01,Everton,73.7
+2020-07-06,Everton,78.3
+2020-07-09,Everton,71.8
+2020-07-12,Everton,80.8
+2020-07-16,Everton,81.9
+2020-07-20,Everton,77.7
+2020-07-26,Everton,85.2
+2020-09-13,Everton,83.3
+2020-09-19,Everton,87.9
+2020-09-26,Everton,81.1
+2020-10-03,Everton,84.1
+2020-10-17,Everton,73.7
+2020-10-25,Everton,82.5
+2020-11-01,Everton,87.4
+2020-11-07,Everton,81.3
+2020-11-22,Everton,75.7
+2020-11-28,Everton,77.1
+2020-12-05,Everton,80.4
+2020-12-12,Everton,63.3
+2020-12-16,Everton,74.4
+2020-12-19,Everton,79.0
+2020-12-26,Everton,77.7
+2021-01-01,Everton,81.5
+2021-01-12,Everton,85.7
+2021-01-27,Everton,71.6
+2021-01-30,Everton,81.0
+2021-02-03,Everton,72.7
+2021-02-06,Everton,78.4
+2021-02-14,Everton,80.9
+2021-02-17,Everton,72.0
+2021-02-20,Everton,65.1
+2021-03-01,Everton,72.6
+2021-03-04,Everton,78.4
+2021-03-08,Everton,79.0
+2021-03-13,Everton,78.7
+2021-04-05,Everton,78.9
+2021-04-12,Everton,75.2
+2021-04-16,Everton,77.7
+2021-04-23,Everton,80.5
+2021-05-01,Everton,79.4
+2021-05-09,Everton,71.2
+2021-05-13,Everton,78.9
+2021-05-16,Everton,84.1
+2021-05-19,Everton,77.3
+2021-05-23,Everton,77.4
+2021-08-14,Everton,68.3
+2021-08-21,Everton,66.1
+2021-08-28,Everton,74.9
+2021-09-13,Everton,72.4
+2021-09-18,Everton,69.6
+2021-09-25,Everton,77.9
+2021-10-02,Everton,65.3
+2021-10-17,Everton,70.1
+2021-10-23,Everton,72.6
+2021-11-01,Everton,73.2
+2021-11-07,Everton,79.2
+2021-11-21,Everton,68.1
+2021-11-28,Everton,79.9
+2021-12-01,Everton,60.8
+2021-12-06,Everton,68.0
+2021-12-12,Everton,68.0
+2021-12-16,Everton,54.2
+2022-01-02,Everton,70.2
+2022-01-15,Everton,76.4
+2022-01-22,Everton,66.7
+2022-02-08,Everton,76.2
+2022-02-12,Everton,74.5
+2022-02-19,Everton,68.6
+2022-02-26,Everton,73.7
+2022-03-07,Everton,84.8
+2022-03-13,Everton,73.6
+2022-03-17,Everton,65.6
+2022-04-03,Everton,79.2
+2022-04-06,Everton,61.0
+2022-04-09,Everton,65.9
+2022-04-20,Everton,72.5
+2022-04-24,Everton,53.9
+2022-05-01,Everton,57.2
+2022-05-08,Everton,72.1
+2022-05-11,Everton,76.8
+2022-05-15,Everton,63.4
+2022-05-19,Everton,66.2
+2022-05-22,Everton,64.2
+2017-08-13,West Ham United,76.4
+2017-08-19,West Ham United,67.0
+2017-08-26,West Ham United,74.6
+2017-09-11,West Ham United,67.0
+2017-09-16,West Ham United,81.2
+2017-09-23,West Ham United,67.8
+2017-09-30,West Ham United,74.4
+2017-10-14,West Ham United,64.4
+2017-10-20,West Ham United,80.1
+2017-10-28,West Ham United,69.1
+2017-11-04,West Ham United,74.5
+2017-11-19,West Ham United,75.1
+2017-11-24,West Ham United,73.7
+2017-11-29,West Ham United,76.3
+2017-12-03,West Ham United,67.4
+2017-12-09,West Ham United,68.3
+2017-12-13,West Ham United,69.4
+2017-12-16,West Ham United,76.9
+2017-12-23,West Ham United,73.7
+2017-12-26,West Ham United,68.7
+2018-01-02,West Ham United,79.8
+2018-01-04,West Ham United,63.8
+2018-01-13,West Ham United,68.0
+2018-01-20,West Ham United,69.0
+2018-01-30,West Ham United,65.7
+2018-02-03,West Ham United,71.6
+2018-02-10,West Ham United,56.4
+2018-02-24,West Ham United,69.8
+2018-03-03,West Ham United,77.7
+2018-03-10,West Ham United,75.2
+2018-03-31,West Ham United,67.7
+2018-04-08,West Ham United,73.1
+2018-04-16,West Ham United,74.6
+2018-04-22,West Ham United,65.2
+2018-04-29,West Ham United,70.4
+2018-05-05,West Ham United,71.3
+2018-05-10,West Ham United,81.5
+2018-05-13,West Ham United,80.2
+2018-08-12,West Ham United,79.3
+2018-08-18,West Ham United,78.7
+2018-08-25,West Ham United,73.2
+2018-09-01,West Ham United,78.7
+2018-09-16,West Ham United,74.0
+2018-09-23,West Ham United,71.5
+2018-09-29,West Ham United,80.2
+2018-10-05,West Ham United,81.9
+2018-10-20,West Ham United,78.2
+2018-10-27,West Ham United,68.6
+2018-11-03,West Ham United,79.5
+2018-11-10,West Ham United,75.6
+2018-11-24,West Ham United,72.8
+2018-12-01,West Ham United,68.6
+2018-12-04,West Ham United,74.9
+2018-12-08,West Ham United,78.1
+2018-12-15,West Ham United,72.1
+2018-12-22,West Ham United,72.1
+2018-12-27,West Ham United,75.4
+2018-12-30,West Ham United,73.5
+2019-01-02,West Ham United,77.4
+2019-01-12,West Ham United,77.6
+2019-01-19,West Ham United,81.1
+2019-01-29,West Ham United,74.4
+2019-02-04,West Ham United,63.3
+2019-02-09,West Ham United,72.4
+2019-02-22,West Ham United,79.3
+2019-02-27,West Ham United,68.7
+2019-03-02,West Ham United,82.3
+2019-03-09,West Ham United,79.5
+2019-03-16,West Ham United,83.6
+2019-03-30,West Ham United,75.3
+2019-04-08,West Ham United,76.5
+2019-04-13,West Ham United,77.8
+2019-04-20,West Ham United,78.6
+2019-04-27,West Ham United,69.7
+2019-05-04,West Ham United,79.2
+2019-05-12,West Ham United,86.6
+2019-08-10,West Ham United,78.7
+2019-08-17,West Ham United,70.1
+2019-08-24,West Ham United,78.6
+2019-08-31,West Ham United,81.9
+2019-09-16,West Ham United,80.8
+2019-09-22,West Ham United,76.5
+2019-09-28,West Ham United,74.7
+2019-10-05,West Ham United,81.3
+2019-10-19,West Ham United,68.9
+2019-10-26,West Ham United,76.4
+2019-11-02,West Ham United,83.4
+2019-11-09,West Ham United,73.2
+2019-11-23,West Ham United,75.8
+2019-11-30,West Ham United,69.4
+2019-12-04,West Ham United,79.1
+2019-12-09,West Ham United,75.6
+2019-12-14,West Ham United,59.9
+2019-12-26,West Ham United,71.5
+2019-12-28,West Ham United,69.6
+2020-01-01,West Ham United,76.1
+2020-01-10,West Ham United,72.7
+2020-01-18,West Ham United,74.7
+2020-01-22,West Ham United,66.6
+2020-01-29,West Ham United,71.5
+2020-02-01,West Ham United,69.9
+2020-02-19,West Ham United,68.8
+2020-02-24,West Ham United,62.3
+2020-02-29,West Ham United,56.3
+2020-03-07,West Ham United,65.0
+2020-06-20,West Ham United,73.1
+2020-06-23,West Ham United,71.8
+2020-07-01,West Ham United,71.5
+2020-07-05,West Ham United,74.6
+2020-07-08,West Ham United,71.4
+2020-07-11,West Ham United,81.6
+2020-07-17,West Ham United,59.7
+2020-07-22,West Ham United,76.7
+2020-07-26,West Ham United,80.6
+2020-09-12,West Ham United,78.6
+2020-09-19,West Ham United,78.3
+2020-09-27,West Ham United,75.6
+2020-10-04,West Ham United,68.4
+2020-10-18,West Ham United,77.4
+2020-10-24,West Ham United,67.1
+2020-10-31,West Ham United,67.1
+2020-11-07,West Ham United,84.5
+2020-11-22,West Ham United,78.3
+2020-11-30,West Ham United,61.9
+2020-12-05,West Ham United,75.4
+2020-12-11,West Ham United,69.1
+2020-12-16,West Ham United,82.8
+2020-12-21,West Ham United,74.5
+2020-12-27,West Ham United,73.8
+2020-12-29,West Ham United,69.6
+2021-01-01,West Ham United,73.7
+2021-01-16,West Ham United,66.9
+2021-01-19,West Ham United,80.3
+2021-01-26,West Ham United,74.7
+2021-01-31,West Ham United,73.9
+2021-02-03,West Ham United,76.0
+2021-02-06,West Ham United,72.5
+2021-02-15,West Ham United,79.7
+2021-02-21,West Ham United,60.3
+2021-02-27,West Ham United,79.1
+2021-03-08,West Ham United,68.1
+2021-03-14,West Ham United,78.1
+2021-03-21,West Ham United,71.3
+2021-04-05,West Ham United,72.3
+2021-04-11,West Ham United,71.5
+2021-04-17,West Ham United,82.0
+2021-04-24,West Ham United,74.3
+2021-05-03,West Ham United,76.5
+2021-05-09,West Ham United,85.5
+2021-05-15,West Ham United,83.8
+2021-05-19,West Ham United,69.8
+2021-05-23,West Ham United,66.8
+2021-08-15,West Ham United,82.6
+2021-08-23,West Ham United,82.7
+2021-08-28,West Ham United,75.2
+2021-09-11,West Ham United,83.5
+2021-09-19,West Ham United,80.3
+2021-09-25,West Ham United,75.2
+2021-10-03,West Ham United,70.8
+2021-10-17,West Ham United,80.0
+2021-10-24,West Ham United,78.0
+2021-10-31,West Ham United,80.2
+2021-11-07,West Ham United,68.7
+2021-11-20,West Ham United,83.3
+2021-11-28,West Ham United,74.5
+2021-12-01,West Ham United,68.5
+2021-12-04,West Ham United,73.0
+2021-12-12,West Ham United,71.1
+2021-12-15,West Ham United,78.6
+2021-12-26,West Ham United,75.3
+2021-12-28,West Ham United,72.2
+2022-01-01,West Ham United,72.4
+2022-01-12,West Ham United,81.7
+2022-01-16,West Ham United,69.3
+2022-01-22,West Ham United,72.6
+2022-02-08,West Ham United,78.9
+2022-02-13,West Ham United,76.5
+2022-02-19,West Ham United,73.5
+2022-02-27,West Ham United,76.5
+2022-03-05,West Ham United,70.4
+2022-03-13,West Ham United,80.2
+2022-03-20,West Ham United,87.3
+2022-04-03,West Ham United,81.9
+2022-04-10,West Ham United,82.1
+2022-04-17,West Ham United,80.9
+2022-04-24,West Ham United,72.6
+2022-05-01,West Ham United,83.5
+2022-05-08,West Ham United,88.8
+2022-05-15,West Ham United,64.7
+2022-05-22,West Ham United,78.0
+2017-08-13,Newcastle United,62.8
+2017-08-20,Newcastle United,70.2
+2017-08-26,Newcastle United,61.7
+2017-09-10,Newcastle United,71.1
+2017-09-16,Newcastle United,68.1
+2017-09-24,Newcastle United,77.7
+2017-10-01,Newcastle United,65.0
+2017-10-15,Newcastle United,70.8
+2017-10-21,Newcastle United,77.4
+2017-10-30,Newcastle United,76.7
+2017-11-04,Newcastle United,70.6
+2017-11-18,Newcastle United,74.8
+2017-11-25,Newcastle United,75.5
+2017-11-28,Newcastle United,77.0
+2017-12-02,Newcastle United,75.4
+2017-12-09,Newcastle United,67.0
+2017-12-13,Newcastle United,73.7
+2017-12-16,Newcastle United,65.4
+2017-12-23,Newcastle United,60.8
+2017-12-27,Newcastle United,60.4
+2017-12-30,Newcastle United,69.8
+2018-01-01,Newcastle United,66.4
+2018-01-13,Newcastle United,73.2
+2018-01-20,Newcastle United,58.2
+2018-01-31,Newcastle United,69.3
+2018-02-04,Newcastle United,68.7
+2018-02-11,Newcastle United,68.5
+2018-02-24,Newcastle United,67.2
+2018-03-03,Newcastle United,66.6
+2018-03-10,Newcastle United,63.3
+2018-03-31,Newcastle United,78.8
+2018-04-07,Newcastle United,58.5
+2018-04-15,Newcastle United,63.4
+2018-04-23,Newcastle United,62.0
+2018-04-28,Newcastle United,78.8
+2018-05-05,Newcastle United,79.8
+2018-05-09,Newcastle United,65.4
+2018-05-13,Newcastle United,75.6
+2018-08-11,Newcastle United,68.3
+2018-08-18,Newcastle United,59.8
+2018-08-26,Newcastle United,63.9
+2018-09-01,Newcastle United,62.8
+2018-09-15,Newcastle United,64.0
+2018-09-22,Newcastle United,67.4
+2018-09-29,Newcastle United,72.1
+2018-10-06,Newcastle United,57.1
+2018-10-20,Newcastle United,78.0
+2018-10-27,Newcastle United,70.4
+2018-11-03,Newcastle United,64.8
+2018-11-10,Newcastle United,65.6
+2018-11-26,Newcastle United,78.7
+2018-12-01,Newcastle United,78.8
+2018-12-05,Newcastle United,62.5
+2018-12-09,Newcastle United,76.1
+2018-12-15,Newcastle United,55.2
+2018-12-22,Newcastle United,77.5
+2018-12-26,Newcastle United,61.9
+2018-12-29,Newcastle United,67.6
+2019-01-02,Newcastle United,70.0
+2019-01-12,Newcastle United,72.9
+2019-01-19,Newcastle United,73.3
+2019-01-29,Newcastle United,62.8
+2019-02-02,Newcastle United,66.8
+2019-02-11,Newcastle United,72.2
+2019-02-23,Newcastle United,80.1
+2019-02-26,Newcastle United,72.4
+2019-03-02,Newcastle United,76.6
+2019-03-09,Newcastle United,67.2
+2019-03-16,Newcastle United,73.6
+2019-04-01,Newcastle United,64.2
+2019-04-06,Newcastle United,78.2
+2019-04-12,Newcastle United,62.1
+2019-04-20,Newcastle United,62.1
+2019-04-27,Newcastle United,80.1
+2019-05-04,Newcastle United,67.2
+2019-05-12,Newcastle United,78.3
+2019-08-11,Newcastle United,74.6
+2019-08-17,Newcastle United,77.9
+2019-08-25,Newcastle United,73.1
+2019-08-31,Newcastle United,73.6
+2019-09-14,Newcastle United,70.0
+2019-09-21,Newcastle United,68.1
+2019-09-29,Newcastle United,75.8
+2019-10-06,Newcastle United,70.2
+2019-10-19,Newcastle United,65.5
+2019-10-27,Newcastle United,76.2
+2019-11-02,Newcastle United,64.9
+2019-11-09,Newcastle United,66.6
+2019-11-25,Newcastle United,74.3
+2019-11-30,Newcastle United,60.2
+2019-12-05,Newcastle United,64.2
+2019-12-08,Newcastle United,66.4
+2019-12-14,Newcastle United,70.6
+2019-12-21,Newcastle United,73.5
+2019-12-26,Newcastle United,71.8
+2019-12-28,Newcastle United,70.0
+2020-01-01,Newcastle United,66.2
+2020-01-11,Newcastle United,71.6
+2020-01-18,Newcastle United,66.0
+2020-01-21,Newcastle United,77.4
+2020-02-01,Newcastle United,75.0
+2020-02-16,Newcastle United,77.2
+2020-02-22,Newcastle United,75.5
+2020-02-29,Newcastle United,64.3
+2020-03-07,Newcastle United,78.1
+2020-06-21,Newcastle United,79.9
+2020-06-24,Newcastle United,75.1
+2020-07-01,Newcastle United,77.8
+2020-07-05,Newcastle United,79.3
+2020-07-08,Newcastle United,72.2
+2020-07-11,Newcastle United,69.8
+2020-07-15,Newcastle United,84.9
+2020-07-20,Newcastle United,73.2
+2020-07-26,Newcastle United,65.0
+2020-09-12,Newcastle United,74.9
+2020-09-20,Newcastle United,73.5
+2020-09-27,Newcastle United,74.2
+2020-10-03,Newcastle United,73.1
+2020-10-17,Newcastle United,71.4
+2020-10-25,Newcastle United,80.1
+2020-11-01,Newcastle United,76.9
+2020-11-06,Newcastle United,74.6
+2020-11-21,Newcastle United,69.1
+2020-11-27,Newcastle United,72.9
+2020-12-12,Newcastle United,77.6
+2020-12-16,Newcastle United,65.0
+2020-12-19,Newcastle United,79.1
+2020-12-26,Newcastle United,72.6
+2020-12-30,Newcastle United,63.1
+2021-01-03,Newcastle United,67.5
+2021-01-12,Newcastle United,67.9
+2021-01-18,Newcastle United,71.7
+2021-01-23,Newcastle United,73.7
+2021-01-26,Newcastle United,67.4
+2021-01-30,Newcastle United,71.0
+2021-02-02,Newcastle United,82.4
+2021-02-06,Newcastle United,56.2
+2021-02-15,Newcastle United,74.8
+2021-02-21,Newcastle United,66.7
+2021-02-27,Newcastle United,80.8
+2021-03-07,Newcastle United,64.9
+2021-03-12,Newcastle United,69.3
+2021-03-20,Newcastle United,79.7
+2021-04-04,Newcastle United,70.9
+2021-04-11,Newcastle United,66.5
+2021-04-17,Newcastle United,73.9
+2021-04-24,Newcastle United,77.8
+2021-05-02,Newcastle United,83.6
+2021-05-07,Newcastle United,69.7
+2021-05-14,Newcastle United,67.0
+2021-05-19,Newcastle United,87.1
+2021-05-23,Newcastle United,77.7
+2021-08-15,Newcastle United,81.1
+2021-08-21,Newcastle United,75.1
+2021-08-28,Newcastle United,67.4
+2021-09-11,Newcastle United,80.4
+2021-09-17,Newcastle United,69.8
+2021-09-25,Newcastle United,73.6
+2021-10-02,Newcastle United,76.5
+2021-10-17,Newcastle United,77.2
+2021-10-23,Newcastle United,61.0
+2021-10-30,Newcastle United,62.7
+2021-11-06,Newcastle United,76.7
+2021-11-20,Newcastle United,71.3
+2021-11-27,Newcastle United,77.1
+2021-11-30,Newcastle United,68.9
+2021-12-04,Newcastle United,64.0
+2021-12-12,Newcastle United,78.0
+2021-12-16,Newcastle United,60.5
+2021-12-19,Newcastle United,77.5
+2021-12-27,Newcastle United,63.8
+2022-01-15,Newcastle United,73.7
+2022-01-22,Newcastle United,66.7
+2022-02-08,Newcastle United,65.4
+2022-02-13,Newcastle United,66.4
+2022-02-19,Newcastle United,75.3
+2022-02-26,Newcastle United,80.2
+2022-03-05,Newcastle United,62.3
+2022-03-10,Newcastle United,67.5
+2022-03-13,Newcastle United,60.1
+2022-03-17,Newcastle United,75.7
+2022-04-03,Newcastle United,82.4
+2022-04-08,Newcastle United,78.6
+2022-04-17,Newcastle United,64.8
+2022-04-20,Newcastle United,73.3
+2022-04-23,Newcastle United,81.9
+2022-04-30,Newcastle United,63.2
+2022-05-08,Newcastle United,74.6
+2022-05-16,Newcastle United,74.7
+2022-05-22,Newcastle United,70.7
+2018-08-11,Wolverhampton Wanderers,79.7
+2018-08-18,Wolverhampton Wanderers,78.0
+2018-08-25,Wolverhampton Wanderers,66.1
+2018-09-01,Wolverhampton Wanderers,81.3
+2018-09-16,Wolverhampton Wanderers,80.6
+2018-09-22,Wolverhampton Wanderers,73.6
+2018-09-29,Wolverhampton Wanderers,81.7
+2018-10-06,Wolverhampton Wanderers,66.7
+2018-10-20,Wolverhampton Wanderers,75.3
+2018-10-27,Wolverhampton Wanderers,81.0
+2018-11-03,Wolverhampton Wanderers,78.6
+2018-11-11,Wolverhampton Wanderers,71.1
+2018-11-25,Wolverhampton Wanderers,74.6
+2018-11-30,Wolverhampton Wanderers,67.3
+2018-12-05,Wolverhampton Wanderers,71.2
+2018-12-09,Wolverhampton Wanderers,77.0
+2018-12-15,Wolverhampton Wanderers,70.7
+2018-12-21,Wolverhampton Wanderers,74.7
+2018-12-26,Wolverhampton Wanderers,83.8
+2018-12-29,Wolverhampton Wanderers,77.0
+2019-01-02,Wolverhampton Wanderers,80.3
+2019-01-14,Wolverhampton Wanderers,67.0
+2019-01-19,Wolverhampton Wanderers,68.8
+2019-01-29,Wolverhampton Wanderers,79.3
+2019-02-02,Wolverhampton Wanderers,67.0
+2019-02-11,Wolverhampton Wanderers,78.2
+2019-02-23,Wolverhampton Wanderers,73.5
+2019-02-26,Wolverhampton Wanderers,76.7
+2019-03-02,Wolverhampton Wanderers,78.4
+2019-03-10,Wolverhampton Wanderers,70.3
+2019-03-30,Wolverhampton Wanderers,75.7
+2019-04-02,Wolverhampton Wanderers,80.0
+2019-04-13,Wolverhampton Wanderers,79.6
+2019-04-20,Wolverhampton Wanderers,85.8
+2019-04-24,Wolverhampton Wanderers,73.7
+2019-04-27,Wolverhampton Wanderers,72.5
+2019-05-04,Wolverhampton Wanderers,73.6
+2019-05-12,Wolverhampton Wanderers,75.3
+2019-08-11,Wolverhampton Wanderers,69.5
+2019-08-19,Wolverhampton Wanderers,72.5
+2019-08-25,Wolverhampton Wanderers,78.7
+2019-09-01,Wolverhampton Wanderers,64.7
+2019-09-14,Wolverhampton Wanderers,76.2
+2019-09-22,Wolverhampton Wanderers,76.7
+2019-09-28,Wolverhampton Wanderers,76.3
+2019-10-06,Wolverhampton Wanderers,64.8
+2019-10-19,Wolverhampton Wanderers,76.7
+2019-10-27,Wolverhampton Wanderers,82.5
+2019-11-02,Wolverhampton Wanderers,77.3
+2019-11-10,Wolverhampton Wanderers,78.0
+2019-11-23,Wolverhampton Wanderers,84.0
+2019-12-01,Wolverhampton Wanderers,78.8
+2019-12-04,Wolverhampton Wanderers,79.5
+2019-12-08,Wolverhampton Wanderers,72.3
+2019-12-15,Wolverhampton Wanderers,74.0
+2019-12-21,Wolverhampton Wanderers,79.2
+2019-12-27,Wolverhampton Wanderers,85.9
+2019-12-29,Wolverhampton Wanderers,71.0
+2020-01-01,Wolverhampton Wanderers,81.5
+2020-01-11,Wolverhampton Wanderers,83.3
+2020-01-18,Wolverhampton Wanderers,63.3
+2020-01-23,Wolverhampton Wanderers,79.4
+2020-02-01,Wolverhampton Wanderers,77.6
+2020-02-14,Wolverhampton Wanderers,72.2
+2020-02-23,Wolverhampton Wanderers,76.6
+2020-03-01,Wolverhampton Wanderers,73.5
+2020-03-07,Wolverhampton Wanderers,74.1
+2020-06-20,Wolverhampton Wanderers,80.3
+2020-06-24,Wolverhampton Wanderers,79.5
+2020-06-27,Wolverhampton Wanderers,79.0
+2020-07-04,Wolverhampton Wanderers,83.7
+2020-07-08,Wolverhampton Wanderers,79.4
+2020-07-12,Wolverhampton Wanderers,84.6
+2020-07-15,Wolverhampton Wanderers,74.2
+2020-07-20,Wolverhampton Wanderers,79.6
+2020-07-26,Wolverhampton Wanderers,68.5
+2020-09-14,Wolverhampton Wanderers,77.3
+2020-09-21,Wolverhampton Wanderers,75.2
+2020-09-27,Wolverhampton Wanderers,85.2
+2020-10-04,Wolverhampton Wanderers,84.0
+2020-10-19,Wolverhampton Wanderers,66.2
+2020-10-25,Wolverhampton Wanderers,89.1
+2020-10-30,Wolverhampton Wanderers,82.3
+2020-11-08,Wolverhampton Wanderers,80.1
+2020-11-23,Wolverhampton Wanderers,78.0
+2020-11-29,Wolverhampton Wanderers,79.2
+2020-12-06,Wolverhampton Wanderers,80.2
+2020-12-12,Wolverhampton Wanderers,74.3
+2020-12-15,Wolverhampton Wanderers,78.1
+2020-12-21,Wolverhampton Wanderers,80.7
+2020-12-27,Wolverhampton Wanderers,82.4
+2020-12-29,Wolverhampton Wanderers,80.3
+2021-01-02,Wolverhampton Wanderers,81.5
+2021-01-12,Wolverhampton Wanderers,87.9
+2021-01-16,Wolverhampton Wanderers,81.2
+2021-01-27,Wolverhampton Wanderers,70.9
+2021-01-30,Wolverhampton Wanderers,85.7
+2021-02-02,Wolverhampton Wanderers,87.4
+2021-02-07,Wolverhampton Wanderers,79.1
+2021-02-14,Wolverhampton Wanderers,73.3
+2021-02-19,Wolverhampton Wanderers,73.4
+2021-02-27,Wolverhampton Wanderers,78.4
+2021-03-02,Wolverhampton Wanderers,81.8
+2021-03-06,Wolverhampton Wanderers,79.5
+2021-03-15,Wolverhampton Wanderers,76.2
+2021-04-05,Wolverhampton Wanderers,85.2
+2021-04-09,Wolverhampton Wanderers,81.3
+2021-04-17,Wolverhampton Wanderers,84.1
+2021-04-25,Wolverhampton Wanderers,75.5
+2021-05-03,Wolverhampton Wanderers,75.9
+2021-05-09,Wolverhampton Wanderers,85.5
+2021-05-16,Wolverhampton Wanderers,80.5
+2021-05-19,Wolverhampton Wanderers,81.3
+2021-05-23,Wolverhampton Wanderers,85.3
+2021-08-14,Wolverhampton Wanderers,80.8
+2021-08-22,Wolverhampton Wanderers,80.5
+2021-08-29,Wolverhampton Wanderers,78.6
+2021-09-11,Wolverhampton Wanderers,86.7
+2021-09-18,Wolverhampton Wanderers,81.6
+2021-09-26,Wolverhampton Wanderers,74.5
+2021-10-02,Wolverhampton Wanderers,84.0
+2021-10-16,Wolverhampton Wanderers,76.4
+2021-10-23,Wolverhampton Wanderers,67.1
+2021-11-01,Wolverhampton Wanderers,84.3
+2021-11-06,Wolverhampton Wanderers,73.7
+2021-11-20,Wolverhampton Wanderers,82.8
+2021-11-27,Wolverhampton Wanderers,84.7
+2021-12-01,Wolverhampton Wanderers,77.4
+2021-12-04,Wolverhampton Wanderers,70.2
+2021-12-11,Wolverhampton Wanderers,75.8
+2021-12-15,Wolverhampton Wanderers,75.8
+2021-12-19,Wolverhampton Wanderers,76.6
+2022-01-03,Wolverhampton Wanderers,79.4
+2022-01-15,Wolverhampton Wanderers,72.2
+2022-01-22,Wolverhampton Wanderers,74.7
+2022-02-10,Wolverhampton Wanderers,78.2
+2022-02-13,Wolverhampton Wanderers,75.4
+2022-02-20,Wolverhampton Wanderers,77.5
+2022-02-24,Wolverhampton Wanderers,74.4
+2022-02-27,Wolverhampton Wanderers,83.4
+2022-03-05,Wolverhampton Wanderers,78.9
+2022-03-10,Wolverhampton Wanderers,87.5
+2022-03-13,Wolverhampton Wanderers,85.9
+2022-03-18,Wolverhampton Wanderers,79.7
+2022-04-02,Wolverhampton Wanderers,79.0
+2022-04-08,Wolverhampton Wanderers,81.9
+2022-04-24,Wolverhampton Wanderers,81.7
+2022-04-30,Wolverhampton Wanderers,79.0
+2022-05-07,Wolverhampton Wanderers,77.2
+2022-05-11,Wolverhampton Wanderers,81.3
+2022-05-15,Wolverhampton Wanderers,87.6
+2022-05-22,Wolverhampton Wanderers,79.8
+2017-08-12,Brighton & Hove Albion,58.9
+2017-08-19,Brighton & Hove Albion,80.8
+2017-08-26,Brighton & Hove Albion,79.1
+2017-09-09,Brighton & Hove Albion,79.3
+2017-09-15,Brighton & Hove Albion,72.1
+2017-09-24,Brighton & Hove Albion,74.9
+2017-10-01,Brighton & Hove Albion,72.9
+2017-10-15,Brighton & Hove Albion,69.9
+2017-10-20,Brighton & Hove Albion,71.9
+2017-10-29,Brighton & Hove Albion,78.4
+2017-11-04,Brighton & Hove Albion,68.0
+2017-11-20,Brighton & Hove Albion,76.6
+2017-11-25,Brighton & Hove Albion,75.0
+2017-11-28,Brighton & Hove Albion,71.4
+2017-12-02,Brighton & Hove Albion,80.0
+2017-12-09,Brighton & Hove Albion,66.8
+2017-12-13,Brighton & Hove Albion,64.3
+2017-12-16,Brighton & Hove Albion,74.5
+2017-12-23,Brighton & Hove Albion,74.5
+2017-12-26,Brighton & Hove Albion,75.3
+2017-12-30,Brighton & Hove Albion,75.5
+2018-01-01,Brighton & Hove Albion,73.6
+2018-01-13,Brighton & Hove Albion,73.5
+2018-01-20,Brighton & Hove Albion,75.3
+2018-01-31,Brighton & Hove Albion,64.6
+2018-02-03,Brighton & Hove Albion,72.4
+2018-02-10,Brighton & Hove Albion,62.8
+2018-02-24,Brighton & Hove Albion,74.4
+2018-03-04,Brighton & Hove Albion,68.3
+2018-03-10,Brighton & Hove Albion,61.0
+2018-03-31,Brighton & Hove Albion,69.0
+2018-04-07,Brighton & Hove Albion,65.4
+2018-04-14,Brighton & Hove Albion,69.0
+2018-04-17,Brighton & Hove Albion,67.8
+2018-04-28,Brighton & Hove Albion,70.6
+2018-05-04,Brighton & Hove Albion,68.3
+2018-05-09,Brighton & Hove Albion,77.1
+2018-05-13,Brighton & Hove Albion,68.5
+2018-08-11,Brighton & Hove Albion,74.4
+2018-08-19,Brighton & Hove Albion,64.0
+2018-08-25,Brighton & Hove Albion,70.8
+2018-09-01,Brighton & Hove Albion,72.8
+2018-09-17,Brighton & Hove Albion,75.4
+2018-09-22,Brighton & Hove Albion,70.4
+2018-09-29,Brighton & Hove Albion,64.8
+2018-10-05,Brighton & Hove Albion,66.6
+2018-10-20,Brighton & Hove Albion,60.1
+2018-10-27,Brighton & Hove Albion,69.8
+2018-11-03,Brighton & Hove Albion,67.0
+2018-11-10,Brighton & Hove Albion,64.1
+2018-11-24,Brighton & Hove Albion,73.7
+2018-12-01,Brighton & Hove Albion,82.6
+2018-12-04,Brighton & Hove Albion,68.4
+2018-12-08,Brighton & Hove Albion,74.2
+2018-12-16,Brighton & Hove Albion,78.3
+2018-12-22,Brighton & Hove Albion,72.2
+2018-12-26,Brighton & Hove Albion,72.3
+2018-12-29,Brighton & Hove Albion,68.2
+2019-01-02,Brighton & Hove Albion,74.2
+2019-01-12,Brighton & Hove Albion,65.8
+2019-01-19,Brighton & Hove Albion,76.4
+2019-01-29,Brighton & Hove Albion,71.8
+2019-02-02,Brighton & Hove Albion,74.1
+2019-02-09,Brighton & Hove Albion,75.6
+2019-02-26,Brighton & Hove Albion,76.3
+2019-03-02,Brighton & Hove Albion,79.4
+2019-03-09,Brighton & Hove Albion,71.5
+2019-03-30,Brighton & Hove Albion,72.2
+2019-04-03,Brighton & Hove Albion,77.7
+2019-04-13,Brighton & Hove Albion,76.2
+2019-04-16,Brighton & Hove Albion,75.8
+2019-04-20,Brighton & Hove Albion,70.2
+2019-04-23,Brighton & Hove Albion,52.7
+2019-04-27,Brighton & Hove Albion,77.9
+2019-05-05,Brighton & Hove Albion,68.2
+2019-05-12,Brighton & Hove Albion,70.6
+2019-08-10,Brighton & Hove Albion,76.4
+2019-08-17,Brighton & Hove Albion,78.4
+2019-08-24,Brighton & Hove Albion,73.1
+2019-08-31,Brighton & Hove Albion,84.7
+2019-09-14,Brighton & Hove Albion,74.0
+2019-09-21,Brighton & Hove Albion,86.7
+2019-09-28,Brighton & Hove Albion,81.6
+2019-10-05,Brighton & Hove Albion,81.0
+2019-10-19,Brighton & Hove Albion,82.6
+2019-10-26,Brighton & Hove Albion,80.6
+2019-11-02,Brighton & Hove Albion,82.5
+2019-11-10,Brighton & Hove Albion,79.4
+2019-11-23,Brighton & Hove Albion,81.1
+2019-11-30,Brighton & Hove Albion,82.1
+2019-12-05,Brighton & Hove Albion,79.7
+2019-12-08,Brighton & Hove Albion,80.8
+2019-12-16,Brighton & Hove Albion,81.1
+2019-12-21,Brighton & Hove Albion,80.7
+2019-12-26,Brighton & Hove Albion,78.1
+2019-12-28,Brighton & Hove Albion,79.5
+2020-01-01,Brighton & Hove Albion,76.9
+2020-01-11,Brighton & Hove Albion,72.7
+2020-01-18,Brighton & Hove Albion,77.7
+2020-01-21,Brighton & Hove Albion,81.4
+2020-02-01,Brighton & Hove Albion,82.3
+2020-02-08,Brighton & Hove Albion,80.7
+2020-02-22,Brighton & Hove Albion,66.7
+2020-02-29,Brighton & Hove Albion,80.0
+2020-03-07,Brighton & Hove Albion,81.4
+2020-06-20,Brighton & Hove Albion,76.2
+2020-06-23,Brighton & Hove Albion,68.1
+2020-06-30,Brighton & Hove Albion,78.6
+2020-07-04,Brighton & Hove Albion,80.9
+2020-07-08,Brighton & Hove Albion,75.9
+2020-07-11,Brighton & Hove Albion,75.1
+2020-07-16,Brighton & Hove Albion,58.9
+2020-07-20,Brighton & Hove Albion,85.6
+2020-07-26,Brighton & Hove Albion,74.0
+2020-09-14,Brighton & Hove Albion,80.4
+2020-09-20,Brighton & Hove Albion,79.1
+2020-09-26,Brighton & Hove Albion,81.6
+2020-10-03,Brighton & Hove Albion,83.1
+2020-10-18,Brighton & Hove Albion,81.7
+2020-10-26,Brighton & Hove Albion,79.2
+2020-11-01,Brighton & Hove Albion,78.5
+2020-11-06,Brighton & Hove Albion,79.7
+2020-11-21,Brighton & Hove Albion,78.7
+2020-11-28,Brighton & Hove Albion,75.5
+2020-12-07,Brighton & Hove Albion,70.2
+2020-12-13,Brighton & Hove Albion,79.6
+2020-12-16,Brighton & Hove Albion,70.7
+2020-12-20,Brighton & Hove Albion,82.1
+2020-12-27,Brighton & Hove Albion,80.6
+2020-12-29,Brighton & Hove Albion,80.3
+2021-01-02,Brighton & Hove Albion,85.1
+2021-01-13,Brighton & Hove Albion,75.5
+2021-01-16,Brighton & Hove Albion,66.1
+2021-01-27,Brighton & Hove Albion,67.7
+2021-01-31,Brighton & Hove Albion,77.8
+2021-02-03,Brighton & Hove Albion,73.7
+2021-02-06,Brighton & Hove Albion,74.7
+2021-02-13,Brighton & Hove Albion,79.4
+2021-02-22,Brighton & Hove Albion,85.1
+2021-02-27,Brighton & Hove Albion,79.7
+2021-03-06,Brighton & Hove Albion,71.9
+2021-03-14,Brighton & Hove Albion,66.5
+2021-03-20,Brighton & Hove Albion,88.1
+2021-04-04,Brighton & Hove Albion,74.7
+2021-04-12,Brighton & Hove Albion,79.7
+2021-04-20,Brighton & Hove Albion,75.2
+2021-04-24,Brighton & Hove Albion,85.2
+2021-05-01,Brighton & Hove Albion,79.4
+2021-05-09,Brighton & Hove Albion,81.1
+2021-05-15,Brighton & Hove Albion,84.6
+2021-05-18,Brighton & Hove Albion,87.6
+2021-05-23,Brighton & Hove Albion,85.2
+2021-08-14,Brighton & Hove Albion,81.6
+2021-08-21,Brighton & Hove Albion,83.7
+2021-08-28,Brighton & Hove Albion,85.7
+2021-09-11,Brighton & Hove Albion,77.9
+2021-09-19,Brighton & Hove Albion,74.9
+2021-09-27,Brighton & Hove Albion,81.0
+2021-10-02,Brighton & Hove Albion,81.8
+2021-10-16,Brighton & Hove Albion,82.8
+2021-10-23,Brighton & Hove Albion,82.5
+2021-10-30,Brighton & Hove Albion,76.3
+2021-11-06,Brighton & Hove Albion,89.3
+2021-11-20,Brighton & Hove Albion,86.7
+2021-11-27,Brighton & Hove Albion,75.7
+2021-12-01,Brighton & Hove Albion,84.0
+2021-12-04,Brighton & Hove Albion,69.6
+2021-12-15,Brighton & Hove Albion,81.4
+2021-12-26,Brighton & Hove Albion,78.3
+2021-12-29,Brighton & Hove Albion,77.6
+2022-01-02,Brighton & Hove Albion,71.7
+2022-01-14,Brighton & Hove Albion,79.6
+2022-01-18,Brighton & Hove Albion,79.2
+2022-01-23,Brighton & Hove Albion,79.2
+2022-02-12,Brighton & Hove Albion,77.8
+2022-02-15,Brighton & Hove Albion,82.5
+2022-02-19,Brighton & Hove Albion,81.6
+2022-02-26,Brighton & Hove Albion,85.1
+2022-03-05,Brighton & Hove Albion,79.8
+2022-03-12,Brighton & Hove Albion,77.4
+2022-03-16,Brighton & Hove Albion,82.3
+2022-04-02,Brighton & Hove Albion,77.7
+2022-04-09,Brighton & Hove Albion,68.7
+2022-04-16,Brighton & Hove Albion,81.6
+2022-04-20,Brighton & Hove Albion,71.7
+2022-04-24,Brighton & Hove Albion,64.3
+2022-04-30,Brighton & Hove Albion,81.7
+2022-05-07,Brighton & Hove Albion,75.4
+2022-05-15,Brighton & Hove Albion,74.4
+2022-05-22,Brighton & Hove Albion,80.8
+
+
+
+
+
