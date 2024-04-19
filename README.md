@@ -77,4 +77,4 @@ Lastly, the presence of confounding variables is especially significant in a bro
 
 ### Acknowledgements
 
-We would like to thank Dr. Shannon Ellis for providing feedback and mentoring on this project. Her invaluable insights helped us create a more polished final product. We would also like to thank the teams at FootyStats and TransferMarkt for providing such clean, workable data from the get-go.
+We would like to thank Dr. Shannon Ellis and Kunal Rustagi for providing feedback and mentoring on this project. Their invaluable insights helped us create a more polished final product. We would also like to thank the teams at FootyStats and TransferMarkt for providing such clean, workable data from the get-go.
