@@ -1,13 +1,14 @@
 # New Manager Myth?
 
 ## Exploring the Effect of a Managerial Change on a Team's Performance in the Premier League
+Tianqi Zhang, Kabir Shergill, Erich Then, and Clark Yang
 
 ![Logo of the English Premier League](imgs/EPL-logo.webp "EPL LOGO")
 
 ### Project Description
 
 The overall purpose of this project was to determine whether teams in the EPL saw genuine bumps in performance in the short term after bringing in a new manager, a phenomenon known as the "new manager bounce". To do this, we looked at various match statistics and changes in manager for teams in the EPL since 2017. During the exploration phase, we primarily focused on teasing out how our match metrics were distributed, and how they changed over the time period (~2017 to 2022). At the end of this phase, we ultimately hit-up on the metrics that had the most positive and negative effects on the result of the game. In our final analysis, we checked if the first ten games of each newcomer exhibited an increase in performance as compared to their predecessor's entire term. Our results told us that only a very small proportion (~2%) of changes correlated with an increase in performance. Thus, we could not find substantial evidence in our dataset to support the claim that a change in manager causes a bump in short-term performance.
-
+***
 ### Setup
 
 ### Data Overview
@@ -48,18 +49,18 @@ The second dataset was scraped from the website [transfermarkt.us](https://www.t
 
 
 The third dataset was scraped from the website [fbref.com](https://fbref.com/en/comps/9/Premier-League-Stats). The website includes passing completion data for each club in the premier league on a season-by-season, match-by-match basis. We scraped the passing completion percentage column for each match a team played across as many clubs as the data was available (stretching back to the 2017 season).
-
+***
 ### Code Structure
-Our project is broken into several steps: Data Cleaning, EDA, and Final Analysis. The code for each step exists in separate notebooks, being DataCleaning.ipynb, EDA.ipynb, and Analysis.ipynb respectively. However, all the code was polished and compiled into the FinalProject.ipynb. There, you'll also find more in-depth descriptions of our process for each step and more insights into how we reached our conclusion.
+Our project is broken into several steps: Data Cleaning, EDA, and Analysis. The code for each step exists in separate notebooks, being DataCleaning.ipynb, EDA.ipynb, and Analysis.ipynb respectively. However, all the code was polished and compiled into the FinalAnalysis.ipynb. There, you'll also find more in-depth descriptions of our process for each step and more insights into how we reached our conclusion.
 
 Code used in webscraping is found in manager_changes.ipynb.
-
+***
 ### Conclusion
 
 After having done our analysis, we have come to the conclusion that **NO, there isn’t a trend in teams being more successful in the 10 games post-sacking a manager as compared to the previous reign.** This conclusion is surprising because it flies directly in the face of the prevailing belief among European football fans that a change in manager is akin to a power-up in success. Most fans are always talking about how they can at least expect some sort of short-term success just on the merits of the change alone. 
 
 If anything, this conclusion supports the idea that clubs should be much more patient with their existing coach and try to stick by him through rough patches in form. Moreoever, this conclusion suggests that **when a team is experiencing a genuine lack of success on the pitch, the club should look at revamping other, more fundamental structures (such as scouting, recruitment, investment, etc..) rather than relying on changing just one man’s job.** Often times, the manager becomes the scapegoat for the team’s failures when in reality, as our conclusion supports, the actual source of the problem most likely lies elsewhere.
-
+***
 ### Discussion and Future Work
 
 One limitation of the analysis was the fact that we only used a select sample of metrics to form these conclusions. We made the decision to limit our analysis to unbiased data that we could confirm the generation process of, to keep our analysis as objective as possible. Doing further analysis with more complex metrics might have revealed more about what managers can actually affect, such as strategy, team culture, etc.
@@ -68,12 +69,12 @@ Additionally, there can be varying reasons as to why the manager change took pla
 
 Lastly, the presence of confounding variables is especially significant in a broad analysis of club performance, as there are lots of reasons why a team can do better or worse after a manager change that don’t necessarily have anything to do with the manager. Injuries, the strength of the teams they are facing, financing, and general skill level of the team all profoundly affect team performance, with or without the change of a manager. By controlling for these in further analysis, we could zero in on the effect of the manager.
 
-### Individual Contributions
+<!-- ### Individual Contributions
 
 - Clark Yang: Wrote code for webscraping tackle data, created presentation and wrote script
 - Erich Then: Webscraped, cleaned, and did analysis for passing data; compiled analyses in conclusion
 - Kabir Shergill: Wrote code to combine datasets, wrote descriptions for cleaning and analysis, summarized analyses in conclusion
-- Tianqi Zhang: Handled data cleaning for the metrics dataset, wrote code for the final analysis portion, organized final report
+- Tianqi Zhang: Handled data cleaning for the metrics dataset, wrote code for the final analysis portion, organized final report -->
 
 ### Acknowledgements
 
